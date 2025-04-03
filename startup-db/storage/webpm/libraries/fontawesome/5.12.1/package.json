@@ -1,0 +1,13 @@
+{
+    "name": "fontawesome",
+    "version": "5.12.1",
+    "main":"package.json",
+    "youwol": {
+        "type": "library",
+        "pipeline": {
+            "name": "yw_pipeline_externals",
+            "version": "0.0.0"
+        }
+    }
+  }
+  

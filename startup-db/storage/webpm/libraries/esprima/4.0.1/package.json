@@ -1,0 +1,48 @@
+{
+    "name": "esprima",
+    "version": "4.0.1",
+    "description": "ECMAScript parsing infrastructure for multipurpose analysis",
+    "author": null,
+    "main": "dist/esprima.js",
+    "scripts": {
+        "clean": "del-cli dist",
+        "auto-gen": "python template.py",
+        "build": "yarn build:dev",
+        "pre-build": "yarn clean",
+        "build:dev": "yarn pre-build && webpack --mode development",
+        "build:prod": "yarn pre-build && webpack --mode production",
+        "test": "jest -i",
+        "test-coverage": "jest -i --collect-coverage"
+    },
+    "prettier": "@youwol/prettier-config",
+    "eslintConfig": {
+        "extends": [
+            "@youwol"
+        ]
+    },
+    "dependencies": {
+        "esprima": "4.0.1"
+    },
+    "devDependencies": {
+        "@types/jest": "^29.5.6",
+        "@types/node": "^20.11.19",
+        "@youwol/eslint-config": "^1.2.1",
+        "@youwol/http-clients": "^3.0.0",
+        "@youwol/jest-preset": "^1.2.1",
+        "@youwol/prettier-config": "^1.2.1",
+        "@youwol/tsconfig": "^1.2.1",
+        "@youwol/webpm-client": "^3.0.0",
+        "del-cli": "^5.1.0",
+        "isomorphic-fetch": "^3.0.0",
+        "ts-loader": "9.5.0",
+        "ts-node": "10.9.2",
+        "typescript": "5.3.3",
+        "webpack": "^5.89.0",
+        "webpack-bundle-analyzer": "^4.9.1",
+        "webpack-cli": "5.1.4"
+    },
+    "webpm": {
+        "dependencies": {},
+        "aliases": []
+    }
+}

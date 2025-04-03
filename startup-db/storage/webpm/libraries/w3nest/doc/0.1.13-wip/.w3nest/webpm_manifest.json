@@ -1,0 +1,565 @@
+{
+    "date": "2025-03-31T08:43:11.678726",
+    "files": [
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "2e4552f9022d69fb0dcfc9b4b76ac79c",
+            "path": "README.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "23cec32a97a36b5d1ef83165afc39ac3",
+            "path": "assets/technical-picture.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "8abf8aefa4e059c2d2fe7c9694c073e0",
+            "path": "assets/how-to.start-youwol.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "2ec9d8f8ebb23642e4b9d474b3ac10ae",
+            "path": "assets/notes.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "image/svg+xml",
+            "hash": "a1054b999e6747c4b60f8563818e9599",
+            "path": "assets/connected.svg"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "image/svg+xml",
+            "hash": "8bc54650e77dc0e5679deb90edb4f7dd",
+            "path": "assets/favicon.svg"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "90b23094f0b0c5ab7315fb6699900e1e",
+            "path": "assets/references.md"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "image/png",
+            "hash": "7e9a6e34f27d5b1779caa834594749c9",
+            "path": "assets/w3lab.png"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "9d8e0c641cfc461889bc4158e5749adf",
+            "path": "assets/api.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "4d240c7fcb3c769a0f2db7294b2c19fd",
+            "path": "assets/how-to.install-youwol.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "ba2cce47f37ee41eca1f3c5c753de9d8",
+            "path": "assets/how-to.md"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "image/png",
+            "hash": "5349397c7032ab9c3234f9fd0d9c98aa",
+            "path": "assets/mkdocs-ts.png"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "2ccce2d962b4c8fdcbcc145ebd848c6f",
+            "path": "assets/CHANGELOG.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "926771214b8b733f4d8600c05608a543",
+            "path": "assets/quick-start.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "d214dcfde53cdcdfa92079b8da9b503f",
+            "path": "assets/api/w3nest.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "5aed0cae2df383bab5d5b76053d210df",
+            "path": "assets/api/w3nest_client.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "23b52aaa1b5a679f876b8e4eb444fca5",
+            "path": "assets/api/w3nest/utils.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "76083e7bd21be5e47132d5ef0cba3ba0",
+            "path": "assets/api/w3nest/ci.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "c2e15058ead9a098074a75091cfa0545",
+            "path": "assets/api/w3nest/shared_api.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "d34aced176fe42ea53adc72d23803c1f",
+            "path": "assets/api/w3nest/app.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "aceea8d82de5dbb511088bcb18ebff7d",
+            "path": "assets/api/w3nest/app/system.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "9b567e0f89efbb1a166b54f317c24ebb",
+            "path": "assets/api/w3nest/app/api.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "e198317e920128027a95e8a9baba7362",
+            "path": "assets/api/w3nest/app/middlewares.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "7f5fe326305c129b34aa791884a32b0f",
+            "path": "assets/api/w3nest/app/environment.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "444f67e216ae34b98265e5fcc534cf53",
+            "path": "assets/api/w3nest/app/config.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "811ad165e88487263903b2779ee5c8bd",
+            "path": "assets/api/w3nest/app/components.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "ff9eb8aab68b7ad68c093a58078000e5",
+            "path": "assets/api/w3nest/app/projects.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "18255487b3f95f0f87d0292bfced22d5",
+            "path": "assets/api/w3nest/app/config/predefined_configs.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "11be3118d857d05838b4523e90a825d2",
+            "path": "assets/api/w3nest/app/middlewares/local_cloud_hybridizers.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "f42de8ccd374cecd048d8fcfae93342d",
+            "path": "assets/api/w3nest/app/system/upload_assets.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "cd1ad62cf6823f9f27d7621e274cc395",
+            "path": "assets/api/w3nest/app/system/download_assets.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "4e47a63c393efc94418a8f75aea54254",
+            "path": "assets/api/w3nest/app/api/system.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "782c0324d2e6637756d70aa1035a9c61",
+            "path": "assets/api/w3nest/app/api/commands.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "87be9d66d44fd9add856a59cab3e64cd",
+            "path": "assets/api/w3nest/app/api/backends.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "9cc8b5e37300a5f429cdde8ae5f7bc6b",
+            "path": "assets/api/w3nest/app/api/environment.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "f61230fac83afb0f326f87548460f282",
+            "path": "assets/api/w3nest/app/api/pyodide.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "89db3244e05cec1058adefc52b39c651",
+            "path": "assets/api/w3nest/app/api/components.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "7e321eb2e8d6ab95428ea462ac5e7d7a",
+            "path": "assets/api/w3nest/app/api/projects.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "d9c2df0fe5c7c12d9a31d6cbc6ef9ccd",
+            "path": "assets/api/w3nest/app/projects/projects_resolver.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "d5c7ab2da2131d0b41bf5bec359f1cbd",
+            "path": "assets/api/w3nest/ci/js_app.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "b9783204c8cd6df0830340436a9b2fb0",
+            "path": "assets/api/w3nest/ci/py_backend.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "8e9c391b5febba856b866b4832cd81b0",
+            "path": "assets/api/w3nest/ci/ts_frontend.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "11021b40d58295aebca687b1d5b90cd9",
+            "path": "assets/api/w3nest/ci/ts_frontend/external.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "7975ed96e64c14cb90c826334094597b",
+            "path": "assets/api/w3nest/ci/ts_frontend/regular.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "7dea1e4c76d8d0a9f1d3b9f01a8ef8be",
+            "path": "assets/api/w3nest/ci/ts_frontend/common.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "c21162dffa22e203b8a9a8b8060e8505",
+            "path": "assets/api/w3nest/shared_api/webpm_sessions_storage.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "379db40549ce31873ee546a526937839",
+            "path": "assets/api/w3nest/shared_api/webpm.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "265f03c17cdf8d4727cd8d635fa641da",
+            "path": "assets/api/w3nest/shared_api/webpm_apps_server.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "18a4c50f9c5c13ec8d718e15c974c183",
+            "path": "assets/api/w3nest/shared_api/assets_gtw.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "97f3c767a3a75ec1781ff9922a2928ea",
+            "path": "assets/api/w3nest/shared_api/common.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "bc6574ab40941fee3b520ea92fa6aa0c",
+            "path": "assets/api/w3nest/shared_api/accounts.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "386cef8f8409f809a6d95da4076187dc",
+            "path": "assets/api/w3nest/shared_api/files.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "32e1819ce86e94fe25bf2877fc137a2d",
+            "path": "assets/api/w3nest/shared_api/assets.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "faf3b979057f4b807d6da510847678a6",
+            "path": "assets/api/w3nest/shared_api/explorer.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "ccb2afa4276f556851d3b88dddd355d1",
+            "path": "assets/api/w3nest/shared_api/accounts/admin.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "36a3f44995c11e4ab4b8e8aa0b501480",
+            "path": "assets/api/w3nest/shared_api/accounts/openid_rp.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "00e2190a5d25f7332f5fc8e9932c9ed1",
+            "path": "assets/api/w3nest/shared_api/assets_gtw/routers.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "d4dce36cf13a48734f1b891fabbfddec",
+            "path": "assets/api/w3nest/shared_api/assets/routers.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "1fb848d768f053fe3e7b4eb61526790b",
+            "path": "assets/api/w3nest/shared_api/explorer/routers.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "bf424f6e0dee78d6ee4150b4839ede38",
+            "path": "assets/api/w3nest/utils/crypto.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "35a7cc8699e375fe2b399b4b89a9c227",
+            "path": "assets/api/w3nest/utils/clients.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "fb23921ed5ee12fc1986bae36f3124ea",
+            "path": "assets/api/w3nest/utils/middlewares.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "dfd7235a83b8ec8fd305b8e01037c90e",
+            "path": "assets/api/w3nest/utils/tables.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "eac7c81b7566eed8a898ebd0fafb8e4e",
+            "path": "assets/api/w3nest/utils/servers.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "a2ca26a9d67ee3c9c0858706c1312b54",
+            "path": "assets/api/w3nest/utils/crypto/file_encryption.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "899729bfc3c30f9e1849ee4aa12f5910",
+            "path": "assets/api/w3nest/utils/crypto/tokens_storage.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "8958075b3c957f921df005dbc9afd9df",
+            "path": "assets/api/w3nest/utils/clients/file_system.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "c905af1d55f31631d7073c88ac8bf543",
+            "path": "assets/api/w3nest/utils/clients/oidc.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "7d66f151dbc17e6163482e72aab74642",
+            "path": "assets/api/w3nest/utils/clients/cache.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "04e60295234a20c6e7c460105b201741",
+            "path": "assets/api/w3nest/utils/clients/docdb.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "a565ad591aa802319027b1ab71bd0a59",
+            "path": "assets/api/w3nest_client/context.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "e3b8f06262f43839c02e97ad62467b49",
+            "path": "assets/api/w3nest_client/common.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "c91e44cdf1b820654ea463efa39843c4",
+            "path": "assets/api/w3nest_client/http.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "f44837103e271aafb8d3f7bbec08b5c5",
+            "path": "assets/api/w3nest_client/http/webpm_sessions_storage.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "c266d59fe0a867917ac4aaa150255e15",
+            "path": "assets/api/w3nest_client/http/assets_gateway.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "5e1ca0f3894b555a3f615576c00c3b57",
+            "path": "assets/api/w3nest_client/http/webpm.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "1a23ad47538d07baed888ac555610324",
+            "path": "assets/api/w3nest_client/http/accounts.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "5d953620ebaa5a009096e0a92cefadf7",
+            "path": "assets/api/w3nest_client/http/files.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "9ac6f9ba522d7d20809e7fabe14fa13e",
+            "path": "assets/api/w3nest_client/http/cdn_sessions_storage.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "8a57a329c06f6351ae59d53708fd9a48",
+            "path": "assets/api/w3nest_client/http/assets.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "c5c47be41a8314d35e7b4c118cd1a33e",
+            "path": "assets/api/w3nest_client/http/explorer.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "1d45f641891b37f1096b74c847de78fd",
+            "path": "package.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/octet-stream",
+            "hash": "be23dab4b705f97125833537c147be3c",
+            "path": "dist/style.866f3802cbe51a069be0.css.map"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "5c0c2978b065b7d569caf36bbbb7edfa",
+            "path": "dist/webpack.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/css",
+            "hash": "09da9010809b13846f299d6ce1556130",
+            "path": "dist/style.866f3802cbe51a069be0.css"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/javascript",
+            "hash": "2841cd0913f4909b12d0324f1e60997f",
+            "path": "dist/534.7143695bd7b6e79371c2.js"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/octet-stream",
+            "hash": "35949c7ade07315b26a0062c2cadd0bf",
+            "path": "dist/534.7143695bd7b6e79371c2.js.map"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/html",
+            "hash": "5da779a99f3529c304cd2dcac8ecbc52",
+            "path": "dist/bundle-analysis.html"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "4a7e55bc703ce13b1374d50918fa3e97",
+            "path": "dist/jest.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "7793026e958f9b74c2d30d805c585bdb",
+            "path": "dist/rx-vdom.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/javascript",
+            "hash": "136236f40bc0ae9e4b17e46a279723fa",
+            "path": "dist/main.0d367038c12329840a68.js"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/html",
+            "hash": "6bfb0d5d9d6193092ef82e671801c8d4",
+            "path": "dist/index.html"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/octet-stream",
+            "hash": "ef43110ec470b4f6e3f43d723d52b417",
+            "path": "dist/main.0d367038c12329840a68.js.map"
+        }
+    ],
+    "fingerprint": "69942df892140f0680682de1a25136d6",
+    "w3Version": "0.1.13.dev"
+}

@@ -1,0 +1,203 @@
+{
+    "documents": [
+        {
+            "item_id": "Wm05dWRHRjNaWE52YldVPQ==",
+            "folder_id": "0d4cbe1e-7792-4d9b-a2f1-cc4242d098a6",
+            "related_id": "Wm05dWRHRjNaWE52YldVPQ==",
+            "name": "fontawesome",
+            "type": "package",
+            "group_id": "L3lvdXdvbC11c2Vycy95b3V3b2wtZGV2cy95b3V3b2wtYWRtaW5z",
+            "drive_id": "L3lvdXdvbC11c2Vycy95b3V3b2wtZGV2cy95b3V3b2wtYWRtaW5z_default-drive",
+            "metadata": "{\"borrowed\": false}",
+            "owner": "/youwol-users"
+        },
+        {
+            "item_id": "WTI5a1pXMXBjbkp2Y2c9PQ==",
+            "folder_id": "private_452d67e1-6252-45c6-b54d-673d3a6a02fe_default-drive_download",
+            "related_id": "WTI5a1pXMXBjbkp2Y2c9PQ==",
+            "name": "codemirror",
+            "type": "package",
+            "group_id": "private_452d67e1-6252-45c6-b54d-673d3a6a02fe",
+            "drive_id": "private_452d67e1-6252-45c6-b54d-673d3a6a02fe_default-drive",
+            "metadata": "{\"borrowed\": false}",
+            "owner": "/youwol-users"
+        },
+        {
+            "item_id": "WW05dmRITjBjbUZ3",
+            "folder_id": "9916e0db-3b07-4699-a2c8-bbc9727727f7",
+            "related_id": "WW05dmRITjBjbUZ3",
+            "name": "bootstrap",
+            "type": "package",
+            "group_id": "L3lvdXdvbC11c2Vycy95b3V3b2wtZGV2cy95b3V3b2wtYWRtaW5z",
+            "drive_id": "ab559a7b-9c09-45f3-ba94-7920c17fd481",
+            "metadata": "{\"borrowed\": false}"
+        },
+        {
+            "item_id": "Y25ocWN3PT0=",
+            "folder_id": "private_452d67e1-6252-45c6-b54d-673d3a6a02fe_default-drive_download",
+            "related_id": "Y25ocWN3PT0=",
+            "name": "rxjs",
+            "type": "package",
+            "group_id": "private_452d67e1-6252-45c6-b54d-673d3a6a02fe",
+            "drive_id": "private_452d67e1-6252-45c6-b54d-673d3a6a02fe_default-drive",
+            "metadata": "{\"borrowed\": false}",
+            "owner": "/youwol-users"
+        },
+        {
+            "item_id": "WkRNPQ==",
+            "folder_id": "0d4cbe1e-7792-4d9b-a2f1-cc4242d098a6",
+            "related_id": "WkRNPQ==",
+            "name": "d3",
+            "type": "package",
+            "group_id": "L3lvdXdvbC11c2Vycy95b3V3b2wtZGV2cy95b3V3b2wtYWRtaW5z",
+            "drive_id": "L3lvdXdvbC11c2Vycy95b3V3b2wtZGV2cy95b3V3b2wtYWRtaW5z_default-drive",
+            "metadata": "{\"borrowed\": false}",
+            "owner": "/youwol-users"
+        },
+        {
+            "item_id": "YldGeWEyVms=",
+            "folder_id": "9916e0db-3b07-4699-a2c8-bbc9727727f7",
+            "related_id": "YldGeWEyVms=",
+            "name": "marked",
+            "type": "package",
+            "group_id": "L3lvdXdvbC11c2Vycy95b3V3b2wtZGV2cy95b3V3b2wtYWRtaW5z",
+            "drive_id": "ab559a7b-9c09-45f3-ba94-7920c17fd481",
+            "metadata": "{\"borrowed\": false}",
+            "owner": "/youwol-users"
+        },
+        {
+            "item_id": "YUdsbmFHeHBaMmgwTG1weg==",
+            "folder_id": "9916e0db-3b07-4699-a2c8-bbc9727727f7",
+            "related_id": "YUdsbmFHeHBaMmgwTG1weg==",
+            "name": "highlight.js",
+            "type": "package",
+            "group_id": "L3lvdXdvbC11c2Vycy95b3V3b2wtZGV2cy95b3V3b2wtYWRtaW5z",
+            "drive_id": "ab559a7b-9c09-45f3-ba94-7920c17fd481",
+            "metadata": "{\"borrowed\": false}",
+            "owner": "/youwol-users"
+        },
+        {
+            "item_id": "UUhCdmNIQmxjbXB6TDJOdmNtVT0=",
+            "folder_id": "0d4cbe1e-7792-4d9b-a2f1-cc4242d098a6",
+            "related_id": "UUhCdmNIQmxjbXB6TDJOdmNtVT0=",
+            "name": "@popperjs/core",
+            "type": "package",
+            "group_id": "L3lvdXdvbC11c2Vycy95b3V3b2wtZGV2cy95b3V3b2wtYWRtaW5z",
+            "drive_id": "L3lvdXdvbC11c2Vycy95b3V3b2wtZGV2cy95b3V3b2wtYWRtaW5z_default-drive",
+            "metadata": "{\"borrowed\": false}",
+            "owner": "/youwol-users"
+        },
+        {
+            "item_id": "UUdac2IyRjBhVzVuTFhWcEwyUnZiUT09",
+            "folder_id": "0d4cbe1e-7792-4d9b-a2f1-cc4242d098a6",
+            "related_id": "UUdac2IyRjBhVzVuTFhWcEwyUnZiUT09",
+            "name": "@floating-ui/dom",
+            "type": "package",
+            "group_id": "L3lvdXdvbC11c2Vycy95b3V3b2wtZGV2cy95b3V3b2wtYWRtaW5z",
+            "drive_id": "L3lvdXdvbC11c2Vycy95b3V3b2wtZGV2cy95b3V3b2wtYWRtaW5z_default-drive",
+            "metadata": "{\"borrowed\": false}",
+            "owner": "/youwol-users"
+        },
+        {
+            "item_id": "WlhOd2NtbHRZUT09",
+            "folder_id": "0d4cbe1e-7792-4d9b-a2f1-cc4242d098a6",
+            "related_id": "WlhOd2NtbHRZUT09",
+            "name": "esprima",
+            "type": "package",
+            "group_id": "L3lvdXdvbC11c2Vycy95b3V3b2wtZGV2cy95b3V3b2wtYWRtaW5z",
+            "drive_id": "L3lvdXdvbC11c2Vycy95b3V3b2wtZGV2cy95b3V3b2wtYWRtaW5z_default-drive",
+            "metadata": "{\"borrowed\": false}",
+            "owner": "/youwol-users"
+        },
+        {
+            "item_id": "Yld0a2IyTnpMWFJ6",
+            "folder_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d_default-drive_download",
+            "related_id": "Yld0a2IyTnpMWFJ6",
+            "name": "mkdocs-ts",
+            "type": "package",
+            "group_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d",
+            "drive_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d_default-drive",
+            "metadata": "{\"borrowed\": false}"
+        },
+        {
+            "item_id": "UUhjemJtVnpkQzlrYjJNPQ==",
+            "folder_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d_default-drive_download",
+            "related_id": "UUhjemJtVnpkQzlrYjJNPQ==",
+            "name": "@w3nest/doc",
+            "type": "package",
+            "group_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d",
+            "drive_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d_default-drive",
+            "metadata": "{\"borrowed\": false}"
+        },
+        {
+            "item_id": "UUhjemJtVnpkQzlvZEhSd0xXTnNhV1Z1ZEhNPQ==",
+            "folder_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d_default-drive_download",
+            "related_id": "UUhjemJtVnpkQzlvZEhSd0xXTnNhV1Z1ZEhNPQ==",
+            "name": "@w3nest/http-clients",
+            "type": "package",
+            "group_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d",
+            "drive_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d_default-drive",
+            "metadata": "{\"borrowed\": false}"
+        },
+        {
+            "item_id": "UUhjemJtVnpkQzkzWldKd2JTMWpiR2xsYm5RPQ==",
+            "folder_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d_default-drive_download",
+            "related_id": "UUhjemJtVnpkQzkzWldKd2JTMWpiR2xsYm5RPQ==",
+            "name": "@w3nest/webpm-client",
+            "type": "package",
+            "group_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d",
+            "drive_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d_default-drive",
+            "metadata": "{\"borrowed\": false}"
+        },
+        {
+            "item_id": "Y25ndGRtUnZiUT09",
+            "folder_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d_default-drive_download",
+            "related_id": "Y25ndGRtUnZiUT09",
+            "name": "rx-vdom",
+            "type": "package",
+            "group_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d",
+            "drive_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d_default-drive",
+            "metadata": "{\"borrowed\": false}"
+        },
+        {
+            "item_id": "UUhjemJtVnpkQzl5ZUMxMGNtVmxMWFpwWlhkeg==",
+            "folder_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d_default-drive_download",
+            "related_id": "UUhjemJtVnpkQzl5ZUMxMGNtVmxMWFpwWlhkeg==",
+            "name": "@w3nest/rx-tree-views",
+            "type": "package",
+            "group_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d",
+            "drive_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d_default-drive",
+            "metadata": "{\"borrowed\": false}"
+        },
+        {
+            "item_id": "UUhjemJtVnpkQzl5ZUMxamIyUmxMVzFwY25KdmNpMWxaR2wwYjNKeg==",
+            "folder_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d_default-drive_download",
+            "related_id": "UUhjemJtVnpkQzl5ZUMxamIyUmxMVzFwY25KdmNpMWxaR2wwYjNKeg==",
+            "name": "@w3nest/rx-code-mirror-editors",
+            "type": "package",
+            "group_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d",
+            "drive_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d_default-drive",
+            "metadata": "{\"borrowed\": false}"
+        },
+        {
+            "item_id": "UUhjemJtVnpkQzkzTTJ4aFlnPT0=",
+            "folder_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d_default-drive_download",
+            "related_id": "UUhjemJtVnpkQzkzTTJ4aFlnPT0=",
+            "name": "@w3nest/w3lab",
+            "type": "package",
+            "group_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d",
+            "drive_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d_default-drive",
+            "metadata": "{\"borrowed\": false}"
+        },
+        {
+            "item_id": "UUhjemJtVnpkQzlzYjJkcGJnPT0=",
+            "folder_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d_default-drive_download",
+            "related_id": "UUhjemJtVnpkQzlzYjJkcGJnPT0=",
+            "name": "@w3nest/login",
+            "type": "package",
+            "group_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d",
+            "drive_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d_default-drive",
+            "metadata": "{\"borrowed\": false}"
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+{"size": 433316, "filesCount": 18, "files": [{"name": "coverage-final.json", "size": 104709, "encoding": "identity"}, {"name": "clover.xml", "size": 31092, "encoding": "identity"}, {"name": "lcov.info", "size": 15431, "encoding": "identity"}], "folders": [{"name": "lcov-report", "path": "coverage/lcov-report", "size": 282084, "filesCount": -1}]}

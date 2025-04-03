@@ -1,0 +1,271 @@
+{
+    "documents": [
+        {
+            "record_id": "Wm05dWRHRjNaWE52YldVPQ==_*",
+            "asset_id": "Wm05dWRHRjNaWE52YldVPQ==",
+            "related_id": "Zm9udGF3ZXNvbWU=",
+            "consumer_group_id": "*",
+            "read": "authorized",
+            "share": "authorized",
+            "parameters": "{}",
+            "timestamp": 1666067610,
+            "owner": "/youwol-users"
+        },
+        {
+            "record_id": "Wm05dWRHRjNaWE52YldVPQ==_L3lvdXdvbC11c2Vycw==",
+            "asset_id": "Wm05dWRHRjNaWE52YldVPQ==",
+            "related_id": "Zm9udGF3ZXNvbWU=",
+            "consumer_group_id": "L3lvdXdvbC11c2Vycw==",
+            "read": "authorized",
+            "share": "authorized",
+            "parameters": "{}",
+            "timestamp": 1666067610,
+            "owner": "/youwol-users"
+        },
+        {
+            "record_id": "WTI5a1pXMXBjbkp2Y2c9PQ==_*",
+            "asset_id": "WTI5a1pXMXBjbkp2Y2c9PQ==",
+            "related_id": "Y29kZW1pcnJvcg==",
+            "consumer_group_id": "*",
+            "read": "authorized",
+            "share": "authorized",
+            "parameters": "{}",
+            "timestamp": 1666067610,
+            "owner": "/youwol-users"
+        },
+        {
+            "record_id": "WTI5a1pXMXBjbkp2Y2c9PQ==_L3lvdXdvbC11c2Vycw==",
+            "asset_id": "WTI5a1pXMXBjbkp2Y2c9PQ==",
+            "related_id": "Y29kZW1pcnJvcg==",
+            "consumer_group_id": "L3lvdXdvbC11c2Vycw==",
+            "read": "authorized",
+            "share": "authorized",
+            "parameters": "{}",
+            "timestamp": 1666067610,
+            "owner": "/youwol-users"
+        },
+        {
+            "record_id": "WW05dmRITjBjbUZ3_*",
+            "asset_id": "WW05dmRITjBjbUZ3",
+            "related_id": "Ym9vdHN0cmFw",
+            "consumer_group_id": "*",
+            "read": "authorized",
+            "share": "authorized",
+            "parameters": "{}",
+            "timestamp": 1666067612,
+            "owner": "/youwol-users"
+        },
+        {
+            "record_id": "WW05dmRITjBjbUZ3_L3lvdXdvbC11c2Vycw==",
+            "asset_id": "WW05dmRITjBjbUZ3",
+            "related_id": "Ym9vdHN0cmFw",
+            "consumer_group_id": "L3lvdXdvbC11c2Vycw==",
+            "read": "authorized",
+            "share": "authorized",
+            "parameters": "{}",
+            "timestamp": 1666067612,
+            "owner": "/youwol-users"
+        },
+        {
+            "record_id": "Y25ocWN3PT0=_*",
+            "asset_id": "Y25ocWN3PT0=",
+            "related_id": "cnhqcw==",
+            "consumer_group_id": "*",
+            "read": "authorized",
+            "share": "authorized",
+            "parameters": "{}",
+            "timestamp": 1666067614,
+            "owner": "/youwol-users"
+        },
+        {
+            "record_id": "Y25ocWN3PT0=_L3lvdXdvbC11c2Vycw==",
+            "asset_id": "Y25ocWN3PT0=",
+            "related_id": "cnhqcw==",
+            "consumer_group_id": "L3lvdXdvbC11c2Vycw==",
+            "read": "authorized",
+            "share": "authorized",
+            "parameters": "{}",
+            "timestamp": 1666067614,
+            "owner": "/youwol-users"
+        },
+        {
+            "record_id": "WkRNPQ==_*",
+            "asset_id": "WkRNPQ==",
+            "related_id": "ZDM=",
+            "consumer_group_id": "*",
+            "read": "authorized",
+            "share": "authorized",
+            "parameters": "{}",
+            "timestamp": 1666067629,
+            "owner": "/youwol-users"
+        },
+        {
+            "record_id": "WkRNPQ==_L3lvdXdvbC11c2Vycw==",
+            "asset_id": "WkRNPQ==",
+            "related_id": "ZDM=",
+            "consumer_group_id": "L3lvdXdvbC11c2Vycw==",
+            "read": "authorized",
+            "share": "authorized",
+            "parameters": "{}",
+            "timestamp": 1666067629,
+            "owner": "/youwol-users"
+        },
+        {
+            "record_id": "YldGeWEyVms=_*",
+            "asset_id": "YldGeWEyVms=",
+            "related_id": "bWFya2Vk",
+            "consumer_group_id": "*",
+            "read": "authorized",
+            "share": "authorized",
+            "parameters": "{}",
+            "timestamp": 1666067654,
+            "owner": "/youwol-users"
+        },
+        {
+            "record_id": "YldGeWEyVms=_L3lvdXdvbC11c2Vycw==",
+            "asset_id": "YldGeWEyVms=",
+            "related_id": "bWFya2Vk",
+            "consumer_group_id": "L3lvdXdvbC11c2Vycw==",
+            "read": "authorized",
+            "share": "authorized",
+            "parameters": "{}",
+            "timestamp": 1666067654,
+            "owner": "/youwol-users"
+        },
+        {
+            "record_id": "YUdsbmFHeHBaMmgwTG1weg==_*",
+            "asset_id": "YUdsbmFHeHBaMmgwTG1weg==",
+            "related_id": "aGlnaGxpZ2h0Lmpz",
+            "consumer_group_id": "*",
+            "read": "authorized",
+            "share": "authorized",
+            "parameters": "{}",
+            "timestamp": 1668014567,
+            "owner": "/youwol-users"
+        },
+        {
+            "record_id": "YUdsbmFHeHBaMmgwTG1weg==_L3lvdXdvbC11c2Vycw==",
+            "asset_id": "YUdsbmFHeHBaMmgwTG1weg==",
+            "related_id": "aGlnaGxpZ2h0Lmpz",
+            "consumer_group_id": "L3lvdXdvbC11c2Vycw==",
+            "read": "authorized",
+            "share": "authorized",
+            "parameters": "{}",
+            "timestamp": 1668014567,
+            "owner": "/youwol-users"
+        },
+        {
+            "record_id": "UUhCdmNIQmxjbXB6TDJOdmNtVT0=_*",
+            "asset_id": "UUhCdmNIQmxjbXB6TDJOdmNtVT0=",
+            "related_id": "QHBvcHBlcmpzL2NvcmU=",
+            "consumer_group_id": "*",
+            "read": "authorized",
+            "share": "authorized",
+            "parameters": "{}",
+            "timestamp": 1688734107,
+            "owner": "/youwol-users"
+        },
+        {
+            "record_id": "UUdac2IyRjBhVzVuTFhWcEwyUnZiUT09_*",
+            "asset_id": "UUdac2IyRjBhVzVuTFhWcEwyUnZiUT09",
+            "related_id": "QGZsb2F0aW5nLXVpL2RvbQ==",
+            "consumer_group_id": "*",
+            "read": "authorized",
+            "share": "authorized",
+            "parameters": "{}",
+            "timestamp": 1710215089,
+            "owner": "/youwol-users"
+        },
+        {
+            "record_id": "WlhOd2NtbHRZUT09_*",
+            "asset_id": "WlhOd2NtbHRZUT09",
+            "related_id": "ZXNwcmltYQ==",
+            "consumer_group_id": "*",
+            "read": "authorized",
+            "share": "authorized",
+            "parameters": "{}",
+            "timestamp": 1714545433,
+            "owner": "/youwol-users"
+        },
+        {
+            "record_id": "UUhjemJtVnpkQzlvZEhSd0xXTnNhV1Z1ZEhNPQ==_*",
+            "asset_id": "UUhjemJtVnpkQzlvZEhSd0xXTnNhV1Z1ZEhNPQ==",
+            "related_id": "QHczbmVzdC9odHRwLWNsaWVudHM=",
+            "consumer_group_id": "*",
+            "read": "authorized",
+            "share": "authorized",
+            "parameters": "{}",
+            "timestamp": 1731997280
+        },
+        {
+            "record_id": "UUhjemJtVnpkQzkzWldKd2JTMWpiR2xsYm5RPQ==_*",
+            "asset_id": "UUhjemJtVnpkQzkzWldKd2JTMWpiR2xsYm5RPQ==",
+            "related_id": "QHczbmVzdC93ZWJwbS1jbGllbnQ=",
+            "consumer_group_id": "*",
+            "read": "authorized",
+            "share": "authorized",
+            "parameters": "{}",
+            "timestamp": 1732026117
+        },
+        {
+            "record_id": "Y25ndGRtUnZiUT09_*",
+            "asset_id": "Y25ndGRtUnZiUT09",
+            "related_id": "cngtdmRvbQ==",
+            "consumer_group_id": "*",
+            "read": "authorized",
+            "share": "authorized",
+            "parameters": "{}",
+            "timestamp": 1732028911
+        },
+        {
+            "record_id": "UUhjemJtVnpkQzl5ZUMxamIyUmxMVzFwY25KdmNpMWxaR2wwYjNKeg==_*",
+            "asset_id": "UUhjemJtVnpkQzl5ZUMxamIyUmxMVzFwY25KdmNpMWxaR2wwYjNKeg==",
+            "related_id": "QHczbmVzdC9yeC1jb2RlLW1pcnJvci1lZGl0b3Jz",
+            "consumer_group_id": "*",
+            "read": "authorized",
+            "share": "authorized",
+            "parameters": "{}",
+            "timestamp": 1732524789
+        },
+        {
+            "record_id": "UUhjemJtVnpkQzl5ZUMxMGNtVmxMWFpwWlhkeg==_*",
+            "asset_id": "UUhjemJtVnpkQzl5ZUMxMGNtVmxMWFpwWlhkeg==",
+            "related_id": "QHczbmVzdC9yeC10cmVlLXZpZXdz",
+            "consumer_group_id": "*",
+            "read": "authorized",
+            "share": "authorized",
+            "parameters": "{}",
+            "timestamp": 1732526119
+        },
+        {
+            "record_id": "Yld0a2IyTnpMWFJ6_*",
+            "asset_id": "Yld0a2IyTnpMWFJ6",
+            "related_id": "bWtkb2NzLXRz",
+            "consumer_group_id": "*",
+            "read": "authorized",
+            "share": "authorized",
+            "parameters": "{}",
+            "timestamp": 1732532461
+        },
+        {
+            "record_id": "UUhjemJtVnpkQzlrYjJNPQ==_*",
+            "asset_id": "UUhjemJtVnpkQzlrYjJNPQ==",
+            "related_id": "QHczbmVzdC9kb2M=",
+            "consumer_group_id": "*",
+            "read": "authorized",
+            "share": "authorized",
+            "parameters": "{}",
+            "timestamp": 1742709266
+        },
+        {
+            "record_id": "UUhjemJtVnpkQzlzYjJkcGJnPT0=_*",
+            "asset_id": "UUhjemJtVnpkQzlzYjJkcGJnPT0=",
+            "related_id": "QHczbmVzdC9sb2dpbg==",
+            "consumer_group_id": "*",
+            "read": "authorized",
+            "share": "authorized",
+            "parameters": "{}",
+            "timestamp": 1742822292
+        }
+    ]
+}

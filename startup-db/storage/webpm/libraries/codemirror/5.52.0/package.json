@@ -1,0 +1,60 @@
+{
+    "name": "codemirror",
+    "version": "5.52.0",
+    "description": "Full-featured in-browser code editor",
+    "author": null,
+    "main": "dist/codemirror.js",
+    "scripts": {
+        "clean": "del-cli dist",
+        "auto-gen": "python template.py",
+        "build": "yarn build:dev",
+        "pre-build": "yarn clean",
+        "build:dev": "yarn pre-build && yarn copy && webpack --mode development",
+        "build:prod": "yarn pre-build && yarn copy && webpack --mode production",
+        "test": "jest -i",
+        "test-coverage": "jest -i --collect-coverage",
+        "copy-mode": "cpx \"/home/greinisch/Projects/youwol-open-source/npm/cdn-externals/codemirror/5.52.0/node_modules/codemirror/mode/**\" \"./mode\"",
+        "copy-theme": "cpx \"/home/greinisch/Projects/youwol-open-source/npm/cdn-externals/codemirror/5.52.0/node_modules/codemirror/theme/*\" \"./theme\"",
+        "copy-addon": "cpx \"/home/greinisch/Projects/youwol-open-source/npm/cdn-externals/codemirror/5.52.0/node_modules/codemirror/addon/**\" \"./addon\"",
+        "copy": "yarn copy-mode && yarn copy-theme && yarn copy-addon && yarn copy-css && yarn copy-backward-assets",
+        "copy-css": "cpx \"/home/greinisch/Projects/youwol-open-source/npm/cdn-externals/codemirror/5.52.0/node_modules/codemirror/lib/codemirror.css\" \"./\" && cleancss -o 'codemirror.min.css' 'codemirror.css'",
+        "copy-patch": "",
+        "minify-css": "find ./theme -name '*.css' -not -name '*.min.css' -exec sh -c 'mv \"$0\" \"${0%.css}.min.css\"' {} \\;",
+        "copy-backward-assets": "cpx \"./backward_assets/theme/*\" \"./theme\" && cpx \"./backward_assets/mode/*\" \"./mode\" "
+    },
+    "prettier": "@youwol/prettier-config",
+    "eslintConfig": {
+        "extends": [
+            "@youwol"
+        ]
+    },
+    "dependencies": {
+        "codemirror": "5.52.0"
+    },
+    "devDependencies": {
+        "@types/jest": "^29.5.6",
+        "@types/node": "^20.11.19",
+        "@youwol/eslint-config": "^1.2.1",
+        "@youwol/http-clients": "^3.0.0",
+        "@youwol/jest-preset": "^1.2.1",
+        "@youwol/prettier-config": "^1.2.1",
+        "@youwol/tsconfig": "^1.2.1",
+        "@youwol/webpm-client": "^3.0.0",
+        "del-cli": "^5.1.0",
+        "isomorphic-fetch": "^3.0.0",
+        "ts-loader": "9.5.0",
+        "ts-node": "10.9.2",
+        "typescript": "5.3.3",
+        "webpack": "^5.89.0",
+        "webpack-bundle-analyzer": "^4.9.1",
+        "webpack-cli": "5.1.4",
+        "cpx": "^1.5.0",
+        "clean-css-cli": "5.6.3"
+    },
+    "webpm": {
+        "dependencies": {},
+        "aliases": [
+            "CodeMirror:default"
+        ]
+    }
+}

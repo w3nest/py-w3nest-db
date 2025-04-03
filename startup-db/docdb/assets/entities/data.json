@@ -1,0 +1,222 @@
+{
+    "documents": [
+        {
+            "asset_id": "Wm05dWRHRjNaWE52YldVPQ==",
+            "related_id": "Zm9udGF3ZXNvbWU=",
+            "group_id": "L3lvdXdvbC11c2Vycy95b3V3b2wtZGV2cy95b3V3b2wtYWRtaW5z",
+            "name": "fontawesome",
+            "description": "",
+            "kind": "package",
+            "tags": [],
+            "images": [],
+            "thumbnails": [],
+            "owner": "/youwol-users"
+        },
+        {
+            "asset_id": "WTI5a1pXMXBjbkp2Y2c9PQ==",
+            "related_id": "Y29kZW1pcnJvcg==",
+            "group_id": "private_452d67e1-6252-45c6-b54d-673d3a6a02fe",
+            "name": "codemirror",
+            "description": "",
+            "kind": "package",
+            "tags": [],
+            "images": [],
+            "thumbnails": [],
+            "owner": "/youwol-users"
+        },
+        {
+            "asset_id": "WW05dmRITjBjbUZ3",
+            "related_id": "Ym9vdHN0cmFw",
+            "group_id": "L3lvdXdvbC11c2Vycy95b3V3b2wtZGV2cy95b3V3b2wtYWRtaW5z",
+            "name": "bootstrap",
+            "description": "",
+            "kind": "package",
+            "tags": [],
+            "images": [],
+            "thumbnails": []
+        },
+        {
+            "asset_id": "Y25ocWN3PT0=",
+            "related_id": "cnhqcw==",
+            "group_id": "private_452d67e1-6252-45c6-b54d-673d3a6a02fe",
+            "name": "rxjs",
+            "description": "",
+            "kind": "package",
+            "tags": [],
+            "images": [],
+            "thumbnails": [],
+            "owner": "/youwol-users"
+        },
+        {
+            "asset_id": "WkRNPQ==",
+            "related_id": "ZDM=",
+            "group_id": "private_452d67e1-6252-45c6-b54d-673d3a6a02fe",
+            "name": "d3",
+            "description": "",
+            "kind": "package",
+            "tags": [],
+            "images": [],
+            "thumbnails": [],
+            "owner": "/youwol-users"
+        },
+        {
+            "asset_id": "YldGeWEyVms=",
+            "related_id": "bWFya2Vk",
+            "group_id": "L3lvdXdvbC11c2Vycy95b3V3b2wtZGV2cy95b3V3b2wtYWRtaW5z",
+            "name": "marked",
+            "description": "",
+            "kind": "package",
+            "tags": [],
+            "images": [],
+            "thumbnails": [],
+            "owner": "/youwol-users"
+        },
+        {
+            "asset_id": "YUdsbmFHeHBaMmgwTG1weg==",
+            "related_id": "aGlnaGxpZ2h0Lmpz",
+            "group_id": "L3lvdXdvbC11c2Vycy95b3V3b2wtZGV2cy95b3V3b2wtYWRtaW5z",
+            "name": "highlight.js",
+            "description": "",
+            "kind": "package",
+            "tags": [],
+            "images": [],
+            "thumbnails": [],
+            "owner": "/youwol-users"
+        },
+        {
+            "asset_id": "UUhCdmNIQmxjbXB6TDJOdmNtVT0=",
+            "related_id": "QHBvcHBlcmpzL2NvcmU=",
+            "group_id": "private_452d67e1-6252-45c6-b54d-673d3a6a02fe",
+            "name": "@popperjs/core",
+            "description": "",
+            "kind": "package",
+            "tags": [],
+            "images": [],
+            "thumbnails": [],
+            "owner": "/youwol-users"
+        },
+        {
+            "asset_id": "UUdac2IyRjBhVzVuTFhWcEwyUnZiUT09",
+            "related_id": "QGZsb2F0aW5nLXVpL2RvbQ==",
+            "group_id": "L3lvdXdvbC11c2Vycy95b3V3b2wtZGV2cy95b3V3b2wtYWRtaW5z",
+            "name": "@floating-ui/dom",
+            "description": "",
+            "kind": "package",
+            "tags": [],
+            "images": [],
+            "thumbnails": [],
+            "owner": "/youwol-users"
+        },
+        {
+            "asset_id": "WlhOd2NtbHRZUT09",
+            "related_id": "ZXNwcmltYQ==",
+            "group_id": "L3lvdXdvbC11c2Vycy95b3V3b2wtZGV2cy95b3V3b2wtYWRtaW5z",
+            "name": "esprima",
+            "description": "",
+            "kind": "package",
+            "tags": [],
+            "images": [],
+            "thumbnails": [],
+            "owner": "/youwol-users"
+        },
+        {
+            "asset_id": "UUhjemJtVnpkQzlvZEhSd0xXTnNhV1Z1ZEhNPQ==",
+            "related_id": "QHczbmVzdC9odHRwLWNsaWVudHM=",
+            "group_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d",
+            "name": "@w3nest/http-clients",
+            "description": "",
+            "kind": "package",
+            "tags": [],
+            "images": [],
+            "thumbnails": []
+        },
+        {
+            "asset_id": "UUhjemJtVnpkQzkzWldKd2JTMWpiR2xsYm5RPQ==",
+            "related_id": "QHczbmVzdC93ZWJwbS1jbGllbnQ=",
+            "group_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d",
+            "name": "@w3nest/webpm-client",
+            "description": "",
+            "kind": "package",
+            "tags": [],
+            "images": [],
+            "thumbnails": []
+        },
+        {
+            "asset_id": "Y25ndGRtUnZiUT09",
+            "related_id": "cngtdmRvbQ==",
+            "group_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d",
+            "name": "rx-vdom",
+            "description": "",
+            "kind": "package",
+            "tags": [],
+            "images": [],
+            "thumbnails": []
+        },
+        {
+            "asset_id": "UUhjemJtVnpkQzl5ZUMxMGNtVmxMWFpwWlhkeg==",
+            "related_id": "QHczbmVzdC9yeC10cmVlLXZpZXdz",
+            "group_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d",
+            "name": "@w3nest/rx-tree-views",
+            "description": "",
+            "kind": "package",
+            "tags": [],
+            "images": [],
+            "thumbnails": []
+        },
+        {
+            "asset_id": "UUhjemJtVnpkQzl5ZUMxamIyUmxMVzFwY25KdmNpMWxaR2wwYjNKeg==",
+            "related_id": "QHczbmVzdC9yeC1jb2RlLW1pcnJvci1lZGl0b3Jz",
+            "group_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d",
+            "name": "@w3nest/rx-code-mirror-editors",
+            "description": "",
+            "kind": "package",
+            "tags": [],
+            "images": [],
+            "thumbnails": []
+        },
+        {
+            "asset_id": "Yld0a2IyTnpMWFJ6",
+            "related_id": "bWtkb2NzLXRz",
+            "group_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d",
+            "name": "mkdocs-ts",
+            "description": "",
+            "kind": "package",
+            "tags": [],
+            "images": [],
+            "thumbnails": []
+        },
+        {
+            "asset_id": "UUhjemJtVnpkQzlrYjJNPQ==",
+            "related_id": "QHczbmVzdC9kb2M=",
+            "group_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d",
+            "name": "@w3nest/doc",
+            "description": "",
+            "kind": "package",
+            "tags": [],
+            "images": [],
+            "thumbnails": []
+        },
+        {
+            "asset_id": "UUhjemJtVnpkQzkzTTJ4aFlnPT0=",
+            "related_id": "QHczbmVzdC93M2xhYg==",
+            "group_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d",
+            "name": "@w3nest/w3lab",
+            "description": "",
+            "kind": "package",
+            "tags": [],
+            "images": [],
+            "thumbnails": []
+        },
+        {
+            "asset_id": "UUhjemJtVnpkQzlzYjJkcGJnPT0=",
+            "related_id": "QHczbmVzdC9sb2dpbg==",
+            "group_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d",
+            "name": "@w3nest/login",
+            "description": "",
+            "kind": "package",
+            "tags": [],
+            "images": [],
+            "thumbnails": []
+        }
+    ]
+}

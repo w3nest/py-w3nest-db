@@ -1,0 +1,1 @@
+{"size": 1905, "filesCount": 13, "files": [{"name": "webpack.config.d.ts", "size": 95, "encoding": "br"}, {"name": "jest.config.d.ts", "size": 66, "encoding": "br"}, {"name": "rx-vdom.config.d.ts", "size": 162, "encoding": "br"}], "folders": [{"name": "src", "path": "dist/examples/todo-app-ts/src", "size": 1582, "filesCount": -1}]}

@@ -1,0 +1,1 @@
+{"family": "library", "links": [{"name": "coverage", "url": "coverage/lcov-report/index.html", "kind": "artifactFile"}, {"name": "bundle-analysis", "url": "dist/bundle-analysis.html", "kind": "artifactFile"}]}

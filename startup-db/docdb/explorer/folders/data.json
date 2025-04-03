@@ -1,0 +1,74 @@
+{
+    "documents": [
+        {
+            "folder_id": "private_452d67e1-6252-45c6-b54d-673d3a6a02fe_default-drive_download",
+            "name": "Download",
+            "parent_folder_id": "private_452d67e1-6252-45c6-b54d-673d3a6a02fe_default-drive",
+            "group_id": "private_452d67e1-6252-45c6-b54d-673d3a6a02fe",
+            "type": "",
+            "metadata": "",
+            "drive_id": "private_452d67e1-6252-45c6-b54d-673d3a6a02fe_default-drive",
+            "owner": "/youwol-users"
+        },
+        {
+            "folder_id": "L3lvdXdvbC11c2Vycy95b3V3b2wtZGV2cy95b3V3b2wtYWRtaW5z_default-drive_home",
+            "name": "Home",
+            "parent_folder_id": "L3lvdXdvbC11c2Vycy95b3V3b2wtZGV2cy95b3V3b2wtYWRtaW5z_default-drive",
+            "group_id": "L3lvdXdvbC11c2Vycy95b3V3b2wtZGV2cy95b3V3b2wtYWRtaW5z",
+            "type": "",
+            "metadata": "",
+            "drive_id": "L3lvdXdvbC11c2Vycy95b3V3b2wtZGV2cy95b3V3b2wtYWRtaW5z_default-drive",
+            "owner": "/youwol-users"
+        },
+        {
+            "folder_id": "5b2b16f7-f2d8-4f59-9337-6d2b544198ea",
+            "name": "npm",
+            "parent_folder_id": "L3lvdXdvbC11c2Vycy95b3V3b2wtZGV2cy95b3V3b2wtYWRtaW5z_default-drive_home",
+            "group_id": "L3lvdXdvbC11c2Vycy95b3V3b2wtZGV2cy95b3V3b2wtYWRtaW5z",
+            "type": "",
+            "metadata": "",
+            "drive_id": "L3lvdXdvbC11c2Vycy95b3V3b2wtZGV2cy95b3V3b2wtYWRtaW5z_default-drive",
+            "owner": "/youwol-users"
+        },
+        {
+            "folder_id": "0d4cbe1e-7792-4d9b-a2f1-cc4242d098a6",
+            "name": "libraries",
+            "parent_folder_id": "5b2b16f7-f2d8-4f59-9337-6d2b544198ea",
+            "group_id": "L3lvdXdvbC11c2Vycy95b3V3b2wtZGV2cy95b3V3b2wtYWRtaW5z",
+            "type": "",
+            "metadata": "",
+            "drive_id": "L3lvdXdvbC11c2Vycy95b3V3b2wtZGV2cy95b3V3b2wtYWRtaW5z_default-drive",
+            "owner": "/youwol-users"
+        },
+        {
+            "folder_id": "116bf44d-fce9-455b-97a6-bd3b97b660a7",
+            "name": "npm-packages",
+            "parent_folder_id": "ab559a7b-9c09-45f3-ba94-7920c17fd481",
+            "group_id": "L3lvdXdvbC11c2Vycy95b3V3b2wtZGV2cy95b3V3b2wtYWRtaW5z",
+            "type": "",
+            "metadata": "",
+            "drive_id": "ab559a7b-9c09-45f3-ba94-7920c17fd481",
+            "owner": "/youwol-users"
+        },
+        {
+            "folder_id": "9916e0db-3b07-4699-a2c8-bbc9727727f7",
+            "name": "libraries",
+            "parent_folder_id": "116bf44d-fce9-455b-97a6-bd3b97b660a7",
+            "group_id": "L3lvdXdvbC11c2Vycy95b3V3b2wtZGV2cy95b3V3b2wtYWRtaW5z",
+            "type": "",
+            "metadata": "",
+            "drive_id": "ab559a7b-9c09-45f3-ba94-7920c17fd481",
+            "owner": "/youwol-users"
+        },
+        {
+            "folder_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d_default-drive_download",
+            "name": "Download",
+            "parent_folder_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d_default-drive",
+            "group_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d",
+            "type": "",
+            "metadata": "",
+            "drive_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d_default-drive",
+            "owner": "/youwol-users"
+        }
+    ]
+}

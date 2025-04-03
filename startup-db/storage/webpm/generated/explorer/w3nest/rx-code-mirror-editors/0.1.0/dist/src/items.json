@@ -1,0 +1,1 @@
+{"size": 7154, "filesCount": 13, "files": [{"name": "index.d.ts", "size": 65, "encoding": "identity"}, {"name": "auto-generated.d.ts", "size": 2885, "encoding": "identity"}], "folders": [{"name": "lib", "path": "dist/src/lib", "size": 4204, "filesCount": -1}, {"name": "tests", "path": "dist/src/tests", "size": 0, "filesCount": -1}]}

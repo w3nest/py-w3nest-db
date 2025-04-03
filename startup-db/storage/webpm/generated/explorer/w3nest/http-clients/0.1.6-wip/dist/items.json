@@ -1,0 +1,1 @@
+{"size": 111206, "filesCount": 5, "files": [{"name": "webpack.config.d.ts", "size": 78, "encoding": "br"}, {"name": "bundle-analysis.html", "size": 80765, "encoding": "br"}, {"name": "jest.config.d.ts", "size": 66, "encoding": "br"}], "folders": [{"name": "@w3nest", "path": "dist/@w3nest", "size": 30297, "filesCount": -1}]}

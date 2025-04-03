@@ -1,0 +1,97 @@
+{
+    "date": "2025-04-03T10:17:09.349022",
+    "files": [
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "ce1ed1ff60df059aeea2593482267ab3",
+            "path": "README.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "image/svg+xml",
+            "hash": "a1054b999e6747c4b60f8563818e9599",
+            "path": "assets/connected.svg"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "image/svg+xml",
+            "hash": "8bc54650e77dc0e5679deb90edb4f7dd",
+            "path": "assets/favicon.svg"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "a23806b333b7409db0691766d05a1b53",
+            "path": "package.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/javascript",
+            "hash": "7291d62aab35d83d5bd1160fb2c8c9a7",
+            "path": "dist/534.88842f8f5a1a4f86c731.js"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/octet-stream",
+            "hash": "6dea7d2d79736cb3de087927eb3eb43d",
+            "path": "dist/main.d21e31596d3c1222923f.js.map"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "5c0c2978b065b7d569caf36bbbb7edfa",
+            "path": "dist/webpack.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/css",
+            "hash": "4248669351318857aaa0a351e73e7308",
+            "path": "dist/style.d18c7558dbb7a36d7e1b.css"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/html",
+            "hash": "60959c64c6ce37b1051e7cb9bd73a49c",
+            "path": "dist/bundle-analysis.html"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "4a7e55bc703ce13b1374d50918fa3e97",
+            "path": "dist/jest.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/octet-stream",
+            "hash": "93ae6a2c06f62f677d0349e154460aad",
+            "path": "dist/534.88842f8f5a1a4f86c731.js.map"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/javascript",
+            "hash": "a76b7602153917ee1060c92840fe1e2c",
+            "path": "dist/main.d21e31596d3c1222923f.js"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "914d8739a8aa0c771b550a1d795b8f8d",
+            "path": "dist/rx-vdom.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/html",
+            "hash": "dc7831c42c52518320aea474844a201a",
+            "path": "dist/index.html"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/octet-stream",
+            "hash": "3510a946c90a3bb659260d1efa4575d4",
+            "path": "dist/style.d18c7558dbb7a36d7e1b.css.map"
+        }
+    ],
+    "fingerprint": "0226b6b89559766d32487c0276493889",
+    "w3Version": "0.1.13.dev"
+}

@@ -1,0 +1,36 @@
+{
+    "distribution": {
+        "artifacts": [
+            "dist"
+        ],
+        "files": {
+            "ignore": [],
+            "include": [
+                "assets/*",
+                "README.md"
+            ]
+        }
+    },
+    "metadata": {
+        "description": "Tiny library to render HTML documents using reactive programing primitives.",
+        "displayName": null,
+        "documentation": "/apps/@rx-vdom/doc/0.1.3",
+        "icon": "/assets/logo.png",
+        "license": null,
+        "readme": "/README.md"
+    },
+    "name": "rx-vdom",
+    "specification": {
+        "dependencies": {},
+        "exports": [],
+        "kind": "esm",
+        "main": {
+            "aliases": [],
+            "dependencies": [],
+            "entryPoint": "./dist/rx-vdom.js",
+            "name": ".",
+            "stylesheets": []
+        }
+    },
+    "version": "0.1.3"
+}

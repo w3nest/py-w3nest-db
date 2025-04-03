@@ -1,0 +1,1 @@
+{"size": 1582, "filesCount": 10, "files": [{"name": "index.d.ts", "size": 27, "encoding": "br"}, {"name": "auto-generated.d.ts", "size": 410, "encoding": "br"}], "folders": [{"name": "app", "path": "dist/examples/todo-app-ts/src/app", "size": 893, "filesCount": -1}, {"name": "tests", "path": "dist/examples/todo-app-ts/src/tests", "size": 252, "filesCount": -1}]}

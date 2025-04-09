@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="1" failures="0" errors="0" time="8.93">
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2024-03-12T03:50:58" time="8.014" tests="1">
+    <testcase classname=" install @floating-ui/dom" name=" install @floating-ui/dom" time="0.144">
+    </testcase>
+  </testsuite>
+</testsuites>

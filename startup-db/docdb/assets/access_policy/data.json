@@ -256,16 +256,6 @@
             "share": "authorized",
             "parameters": "{}",
             "timestamp": 1742709266
-        },
-        {
-            "record_id": "UUhjemJtVnpkQzlzYjJkcGJnPT0=_*",
-            "asset_id": "UUhjemJtVnpkQzlzYjJkcGJnPT0=",
-            "related_id": "QHczbmVzdC9sb2dpbg==",
-            "consumer_group_id": "*",
-            "read": "authorized",
-            "share": "authorized",
-            "parameters": "{}",
-            "timestamp": 1742822292
         }
     ]
 }

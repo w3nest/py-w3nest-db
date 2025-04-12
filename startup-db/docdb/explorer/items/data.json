@@ -188,16 +188,6 @@
             "group_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d",
             "drive_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d_default-drive",
             "metadata": "{\"borrowed\": false}"
-        },
-        {
-            "item_id": "UUhjemJtVnpkQzlzYjJkcGJnPT0=",
-            "folder_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d_default-drive_download",
-            "related_id": "UUhjemJtVnpkQzlzYjJkcGJnPT0=",
-            "name": "@w3nest/login",
-            "type": "package",
-            "group_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d",
-            "drive_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d_default-drive",
-            "metadata": "{\"borrowed\": false}"
         }
     ]
 }

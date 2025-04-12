@@ -206,17 +206,6 @@
             "tags": [],
             "images": [],
             "thumbnails": []
-        },
-        {
-            "asset_id": "UUhjemJtVnpkQzlzYjJkcGJnPT0=",
-            "related_id": "QHczbmVzdC9sb2dpbg==",
-            "group_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d",
-            "name": "@w3nest/login",
-            "description": "",
-            "kind": "package",
-            "tags": [],
-            "images": [],
-            "thumbnails": []
         }
     ]
 }

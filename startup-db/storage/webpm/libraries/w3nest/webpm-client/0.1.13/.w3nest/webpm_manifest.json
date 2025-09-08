@@ -1,0 +1,139 @@
+{
+    "date": "2025-09-06T07:07:54.777159",
+    "files": [
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "0fc0018415e913fe342522d2f61a6533",
+            "path": "README.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "image/svg+xml",
+            "hash": "b11a09613a0495d7f0ddd5f16050cde9",
+            "path": "assets/Python-logo-notext.svg"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "image/svg+xml",
+            "hash": "3c25552ebb0d1e4131e76ed5b515d148",
+            "path": "assets/fa-thumbtack.svg"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "image/svg+xml",
+            "hash": "11e4cc745e88d3b75d935323e16c7eff",
+            "path": "assets/fa-cog.svg"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "image/svg+xml",
+            "hash": "60c31aeffb2628de653d5253a828b6a5",
+            "path": "assets/favicon.svg"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "image/svg+xml",
+            "hash": "8940ff6aab6623eed12df0883ea22ea9",
+            "path": "assets/fa-css3-alt.svg"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "image/svg+xml",
+            "hash": "2cecdb061ba9eab1aaa7050e1c266b1a",
+            "path": "assets/fa-network-wired.svg"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "76d355c4bbc6bfe5adc30f5d4313d558",
+            "path": "assets/indexAPIdoc.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/css",
+            "hash": "8a0cc30ba22af454f418af04a05f8d87",
+            "path": "assets/style.css"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "image/png",
+            "hash": "37399689c0b837b114e37ed51cb32902",
+            "path": "assets/JavaScript-logo.png"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "8a0f6e38df42a90b2948240ff00db56d",
+            "path": "package.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/octet-stream",
+            "hash": "175b30cc4dc66c6ae9d6dd29bcc0f930",
+            "path": "dist/testUtils.js.map"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "bf3ce55798f9d3deeb7e3c421efe098e",
+            "path": "dist/webpack.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/javascript",
+            "hash": "6435ac2753bd83eb2d2adbc26a032113",
+            "path": "dist/views.js"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/octet-stream",
+            "hash": "191a56dba8a38cbc3773d57206625bc2",
+            "path": "dist/views.js.map"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "2f0aa004b15580a7bcb1fafdae112d27",
+            "path": "dist/jest.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/javascript",
+            "hash": "e4cf039e2ea3ba664161952a537a5f18",
+            "path": "dist/workersPool.js"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "baebfaaa8cd1b6dfeb3db4b223eef733",
+            "path": "dist/rx-vdom.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/javascript",
+            "hash": "8ff76d0946c96b0d47cdcc3d45c7dd9c",
+            "path": "dist/testUtils.js"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/octet-stream",
+            "hash": "26ab9f87b1478f50234aea3aedfa22f6",
+            "path": "dist/workersPool.js.map"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/javascript",
+            "hash": "86ddeacffc2c65f2e51a16f39c2dbf58",
+            "path": "dist/@w3nest/webpm-client.js"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/octet-stream",
+            "hash": "2f97440dd2f08d141a18ae20f263bbb6",
+            "path": "dist/@w3nest/webpm-client.js.map"
+        }
+    ],
+    "fingerprint": "19a4c8367c577561ec632168893f9af6",
+    "w3Version": "0.1.13.dev"
+}

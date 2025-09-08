@@ -1,0 +1,55 @@
+{
+    "date": "2025-09-02T15:07:08.260822",
+    "files": [
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "c4844fc959b8749c747fb9b9208fca51",
+            "path": "README.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/css",
+            "hash": "69c5aa48c7d4572a762227fc17aefd77",
+            "path": "assets/style.css"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "50c940e8ce27911d54dde620d43df1a9",
+            "path": "package.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "bf3ce55798f9d3deeb7e3c421efe098e",
+            "path": "dist/webpack.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "2f0aa004b15580a7bcb1fafdae112d27",
+            "path": "dist/jest.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "a9ba89c57b095545bd05c0c170c8afa4",
+            "path": "dist/rx-vdom.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/javascript",
+            "hash": "0631809d9c2be4cc3556dbba5b482cba",
+            "path": "dist/@vs-flow/flowchart-3d.js"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/octet-stream",
+            "hash": "fcb7af20489407a876d2ed5535a97007",
+            "path": "dist/@vs-flow/flowchart-3d.js.map"
+        }
+    ],
+    "fingerprint": "3f218568f88efd46dc9e40b7a322c9c8",
+    "w3Version": "0.1.13.dev"
+}

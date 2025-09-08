@@ -2,13 +2,6 @@
     "documents": [
         {
             "name": "Default drive",
-            "drive_id": "private_452d67e1-6252-45c6-b54d-673d3a6a02fe_default-drive",
-            "group_id": "private_452d67e1-6252-45c6-b54d-673d3a6a02fe",
-            "metadata": "",
-            "owner": "/youwol-users"
-        },
-        {
-            "name": "Default drive",
             "drive_id": "L3lvdXdvbC11c2Vycy95b3V3b2wtZGV2cy95b3V3b2wtYWRtaW5z_default-drive",
             "group_id": "L3lvdXdvbC11c2Vycy95b3V3b2wtZGV2cy95b3V3b2wtYWRtaW5z",
             "metadata": "",

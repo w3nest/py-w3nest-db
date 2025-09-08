@@ -1,16 +1,6 @@
 {
     "documents": [
         {
-            "folder_id": "private_452d67e1-6252-45c6-b54d-673d3a6a02fe_default-drive_download",
-            "name": "Download",
-            "parent_folder_id": "private_452d67e1-6252-45c6-b54d-673d3a6a02fe_default-drive",
-            "group_id": "private_452d67e1-6252-45c6-b54d-673d3a6a02fe",
-            "type": "",
-            "metadata": "",
-            "drive_id": "private_452d67e1-6252-45c6-b54d-673d3a6a02fe_default-drive",
-            "owner": "/youwol-users"
-        },
-        {
             "folder_id": "L3lvdXdvbC11c2Vycy95b3V3b2wtZGV2cy95b3V3b2wtYWRtaW5z_default-drive_home",
             "name": "Home",
             "parent_folder_id": "L3lvdXdvbC11c2Vycy95b3V3b2wtZGV2cy95b3V3b2wtYWRtaW5z_default-drive",

@@ -1,0 +1,211 @@
+{
+    "date": "2025-09-06T10:52:50.724157",
+    "files": [
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "3e91e5dd24e0aba302b8ea3e138bb72e",
+            "path": "README.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "c89725bb54f8a5dd4ee4cd4282863ac7",
+            "path": "assets/doc.tutorials.quick-tour.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "image/svg+xml",
+            "hash": "f7dcf2315d948956bc10b195a38cdec9",
+            "path": "assets/icon-TS.svg"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "14abd0034008a5ff3468c4aeae97f129",
+            "path": "assets/doc.how-to.custom-home.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "image/svg+xml",
+            "hash": "f749d3d580dd5c7dee84db1aa03a233f",
+            "path": "assets/favicon.svg"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "image/png",
+            "hash": "d8be60776dc230fef67fd7ecb3dccaed",
+            "path": "assets/co-lab-high.png"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "0c04e6067378eb1d63be9276ad8a0f49",
+            "path": "assets/home.md"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "image/png",
+            "hash": "671df766882f9fb5becaf9a6670dc382",
+            "path": "assets/co-lab-light.png"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "image/svg+xml",
+            "hash": "3773c43874b426d63d805ed917bd1b8e",
+            "path": "assets/icon-md.svg"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "image/svg+xml",
+            "hash": "7415a70abb0fbaeab688508b2d8b1ce4",
+            "path": "assets/icon-css.svg"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "image/svg+xml",
+            "hash": "78543feedce594961e211d79a0ce75b8",
+            "path": "assets/icon-python.svg"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "f6f2c8ac9dbc7cffbd15e011c742eb35",
+            "path": "assets/doc.tutorials.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "image/svg+xml",
+            "hash": "1949d232de3967abfd40a83cbbde997c",
+            "path": "assets/icon-js.svg"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "image/svg+xml",
+            "hash": "74455bfcb3812f919d277b976b57c2ea",
+            "path": "assets/undefined_icon_file.svg"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "627062f6c8b57d26b97aee4f723ca600",
+            "path": "assets/doc.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "5a5c079bd7a7b33a1b0e3b1b1562c9d2",
+            "path": "assets/doc.api.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "a14b0e50d9831fd8fe09fb8edae200c8",
+            "path": "assets/doc.how-to.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "e00f7705897f4e62d70a42da4e7e3d31",
+            "path": "assets/api/w3lab.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "70e6e803161224e4abfd3038c7c0fe88",
+            "path": "assets/api/w3lab/Plugins.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "b94f255869172f425475615bac630449",
+            "path": "assets/api/w3lab/Home.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "0160dfd29a770a2694a99473e481ee0a",
+            "path": "assets/api/w3lab/Home/Widgets.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "8336e896a61ff0750c0d7eccc1eac29e",
+            "path": "package.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "5c0c2978b065b7d569caf36bbbb7edfa",
+            "path": "dist/webpack.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/javascript",
+            "hash": "25f40d30a3e94edc4d93f831485af4fa",
+            "path": "dist/258.32603d4f7cf84fe45bef.js"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/octet-stream",
+            "hash": "adddf6af314acdf243e41cd0d6bbc0c2",
+            "path": "dist/258.32603d4f7cf84fe45bef.js.map"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/javascript",
+            "hash": "09d08c02de97735347dfac83db854ec1",
+            "path": "dist/406.40e08ff0fd10eacb78a3.js"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/javascript",
+            "hash": "cb6c6d308d59479f0ef26542a890e600",
+            "path": "dist/main.26e169515c08624cb3c7.js"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "2f0aa004b15580a7bcb1fafdae112d27",
+            "path": "dist/jest.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/octet-stream",
+            "hash": "af09036c8a53fd79733d18c943d49377",
+            "path": "dist/406.40e08ff0fd10eacb78a3.js.map"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/css",
+            "hash": "72adbb0c469cca241aeb3b5cbdb23b6d",
+            "path": "dist/style.5b2b5b6f002f784c8910.css"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "b69f400580ce257f8c58cdc75e2d34b1",
+            "path": "dist/rx-vdom.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/octet-stream",
+            "hash": "a0652c51dc1ccdf639f1e1a6ed082f4c",
+            "path": "dist/main.26e169515c08624cb3c7.js.map"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/html",
+            "hash": "32f7be3d4874b8265120e06f5c505799",
+            "path": "dist/index.html"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/octet-stream",
+            "hash": "07782da953799749520f0c9117d590cf",
+            "path": "dist/style.5b2b5b6f002f784c8910.css.map"
+        }
+    ],
+    "fingerprint": "08dd9b17bb06c9aebd4c8b04d6b31114",
+    "w3Version": "0.1.13.dev"
+}

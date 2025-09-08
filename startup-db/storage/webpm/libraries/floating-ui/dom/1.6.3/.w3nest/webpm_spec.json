@@ -1,0 +1,35 @@
+{
+    "distribution": {
+        "artifacts": [
+            "dist"
+        ],
+        "files": {
+            "ignore": [],
+            "include": [
+                "README.md"
+            ]
+        }
+    },
+    "metadata": {
+        "description": null,
+        "displayName": null,
+        "documentation": null,
+        "icon": null,
+        "license": null,
+        "readme": null
+    },
+    "name": "@floating-ui/dom",
+    "specification": {
+        "dependencies": {},
+        "exports": [],
+        "kind": "esm",
+        "main": {
+            "aliases": [],
+            "dependencies": [],
+            "entryPoint": "./dist/@floating-ui/dom.js",
+            "name": ".",
+            "stylesheets": []
+        }
+    },
+    "version": "1.6.3"
+}

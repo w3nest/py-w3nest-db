@@ -1,0 +1,63 @@
+{
+    "distribution": {
+        "artifacts": [
+            "dist"
+        ],
+        "files": {
+            "ignore": [],
+            "include": [
+                "assets/*",
+                "README.md"
+            ]
+        }
+    },
+    "metadata": {
+        "description": "Documentation app for the project mkdocs-ts.",
+        "displayName": null,
+        "documentation": null,
+        "icon": "/assets/logo-TS.svg",
+        "license": null,
+        "readme": "/README.md"
+    },
+    "name": "@mkdocs-ts/doc",
+    "specification": {
+        "dependencies": {
+            "@mkdocs-ts/code-api": "^0.2.3",
+            "@mkdocs-ts/notebook": "^0.1.5",
+            "@w3nest/ui-tk": "^0.1.1",
+            "@w3nest/webpm-client": "^0.1.5",
+            "mathjax": "^3.1.4",
+            "mkdocs-ts": "^0.5.3",
+            "rx-vdom": "^0.1.4",
+            "rxjs": "^7.5.6"
+        },
+        "execution": {
+            "openWidth": [],
+            "standalone": true
+        },
+        "exports": [],
+        "kind": "webapp",
+        "main": {
+            "dependencies": [
+                "rxjs",
+                "rx-vdom",
+                "mkdocs-ts",
+                "@mkdocs-ts/code-api/Doc",
+                "@mkdocs-ts/notebook/Doc",
+                "@w3nest/webpm-client",
+                "mathjax",
+                "@w3nest/ui-tk/Badges",
+                "@w3nest/ui-tk/Mkdocs"
+            ],
+            "entryPoint": "dist/index.html",
+            "stylesheets": []
+        },
+        "security": {
+            "coep": "require-corp",
+            "coop": "same-origin",
+            "csp": null,
+            "referrer_policy": "strict-origin-when-cross-origin"
+        }
+    },
+    "version": "0.5.3"
+}

@@ -1,0 +1,64 @@
+{
+    "distribution": {
+        "artifacts": [
+            "dist"
+        ],
+        "files": {
+            "ignore": [],
+            "include": [
+                "README.md"
+            ]
+        }
+    },
+    "metadata": {
+        "description": null,
+        "displayName": null,
+        "documentation": null,
+        "icon": null,
+        "license": null,
+        "readme": null
+    },
+    "name": "rxjs",
+    "specification": {
+        "dependencies": {},
+        "exports": [
+            {
+                "aliases": [],
+                "dependencies": [],
+                "entryPoint": "./dist/fetch.js",
+                "name": "./fetch",
+                "stylesheets": []
+            },
+            {
+                "aliases": [],
+                "dependencies": [],
+                "entryPoint": "./dist/operators.js",
+                "name": "./operators",
+                "stylesheets": []
+            },
+            {
+                "aliases": [],
+                "dependencies": [],
+                "entryPoint": "./dist/ajax.js",
+                "name": "./ajax",
+                "stylesheets": []
+            },
+            {
+                "aliases": [],
+                "dependencies": [],
+                "entryPoint": "./dist/webSocket.js",
+                "name": "./webSocket",
+                "stylesheets": []
+            }
+        ],
+        "kind": "esm",
+        "main": {
+            "aliases": [],
+            "dependencies": [],
+            "entryPoint": "./dist/rxjs.js",
+            "name": ".",
+            "stylesheets": []
+        }
+    },
+    "version": "7.8.2"
+}

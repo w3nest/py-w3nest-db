@@ -1,0 +1,91 @@
+{
+    "date": "2025-09-02T11:40:35.377920",
+    "files": [
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "c2c9214fdad6ab05d1097ba9ab4a862c",
+            "path": "README.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/css",
+            "hash": "d60a812eb5f5accc123c215163490609",
+            "path": "assets/ts-typedoc.css"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "bcd49ffa929f41fcd8eb0bdb4ef51916",
+            "path": "assets/api/code-api.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "b39c11f4ad24ab1fb3527ba905e6a7f8",
+            "path": "assets/api/code-api/MkApiBackends.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "e25c1a8ca906bdae7cff38d5f9669c0f",
+            "path": "assets/api/code-api/MkApiBackends/mkapi_python.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "892ec86a632895ec5c54dc1c9971a6f6",
+            "path": "assets/api/code-api/MkApiBackends/MkApiTypescript.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "583da2cc3957cdc06e89fa1dfea814ad",
+            "path": "package.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/octet-stream",
+            "hash": "85eaab9414b15ff29898d5ab6356fb5a",
+            "path": "dist/Doc.js.map"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "bf3ce55798f9d3deeb7e3c421efe098e",
+            "path": "dist/webpack.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/javascript",
+            "hash": "1c80074bcab7caf8200ed78df19ff81c",
+            "path": "dist/Doc.js"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "2f0aa004b15580a7bcb1fafdae112d27",
+            "path": "dist/jest.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "0c54ef39f88d57dbc9275b262a588bd8",
+            "path": "dist/rx-vdom.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/javascript",
+            "hash": "1748051140c2d74ad213bcb2ba81bf66",
+            "path": "dist/@mkdocs-ts/code-api.js"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/octet-stream",
+            "hash": "7e09c8a3cd509df5af087d4957445ecb",
+            "path": "dist/@mkdocs-ts/code-api.js.map"
+        }
+    ],
+    "fingerprint": "262b89beac91f228d1c0a596862d1b25",
+    "w3Version": "0.1.13.dev"
+}

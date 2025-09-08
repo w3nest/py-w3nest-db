@@ -1,0 +1,37 @@
+{
+    "date": "2025-09-03T07:20:46.955155",
+    "files": [
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "1aaeab53a505209196923d0590950494",
+            "path": "package.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "bf3ce55798f9d3deeb7e3c421efe098e",
+            "path": "dist/webpack.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "2f0aa004b15580a7bcb1fafdae112d27",
+            "path": "dist/jest.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/javascript",
+            "hash": "94f5a494bb0dc860f01e00d8d7c188e0",
+            "path": "dist/@w3nest/http-clients.js"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/octet-stream",
+            "hash": "ff3d19a9aff3f7f1145fea664ba01d97",
+            "path": "dist/@w3nest/http-clients.js.map"
+        }
+    ],
+    "fingerprint": "46cf7b0d01d589ef8cf0d361bcce60a8",
+    "w3Version": "0.1.13.dev"
+}

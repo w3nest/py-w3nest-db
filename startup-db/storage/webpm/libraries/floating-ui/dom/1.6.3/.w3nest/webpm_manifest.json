@@ -1,0 +1,181 @@
+{
+    "date": "2025-06-05T14:33:24.581727",
+    "files": [
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "8a2ab89a58b03c03e9b3bfc0e9876e78",
+            "path": "README.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "651f6b89dff8456dc01d3967565a2091",
+            "path": ".prettierrc.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "5ed95040542fbcbe31ca7c8a5d749cc1",
+            "path": "rx-vdom.config.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/javascript",
+            "hash": "a2f9fd7c0e9090c17f9f026171119b62",
+            "path": "typedoc.js"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "application/octet-stream",
+            "hash": "34608a2d06befbdcce3c89991f2a4bfc",
+            "path": "LICENSE"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "9f6c29dc184a51bd2d5376934e1cdc8b",
+            "path": "package.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "2d8d8a5767d146cba8a40d33e369fdc0",
+            "path": "webpack.config.ts"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "application/octet-stream",
+            "hash": "04c500e93c4990165ae6e477631f9948",
+            "path": ".npmignore"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "application/octet-stream",
+            "hash": "083dd7481d41e0e9b9848cdd72186111",
+            "path": ".gitignore"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "text/x-python",
+            "hash": "98f426a378c0011ed33a498e8c3699e5",
+            "path": "template.py"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "application/octet-stream",
+            "hash": "d3ac969e38e8f9b4581e6b7cfb237e36",
+            "path": "yarn.lock"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "application/octet-stream",
+            "hash": "13f21584a60ba70bf72fd541b790bc63",
+            "path": ".prettierignore"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "fed0a07390d0959cd5010044af1363f2",
+            "path": "jest.config.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "8a2ab89a58b03c03e9b3bfc0e9876e78",
+            "path": "README.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "1b17afc200c1da8d8b51c2065f6526d3",
+            "path": "tsconfig.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "bf3ce55798f9d3deeb7e3c421efe098e",
+            "path": "dist/webpack.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/html",
+            "hash": "96addc6bfb9ca07b45d81fe92fad39b8",
+            "path": "dist/bundle-analysis.html"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "2f0aa004b15580a7bcb1fafdae112d27",
+            "path": "dist/jest.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "914d8739a8aa0c771b550a1d795b8f8d",
+            "path": "dist/rx-vdom.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "171a5e476ae87c3a866b265015a36a06",
+            "path": "src/index.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/javascript",
+            "hash": "9c8c2455b8de5c09c4edfcac50564f54",
+            "path": "dist/@floating-ui/dom.js"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/octet-stream",
+            "hash": "41ec99a866f2c7b2a548e6b90c6c1bd9",
+            "path": "dist/@floating-ui/dom.js.map"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "4b31373a193fad4b2316cbc93c6abb06",
+            "path": "dist/src/index.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "f6eb17fc136db20ec9d470f25d43b51b",
+            "path": "dist/src/tests/mock-requests.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "f07295dcb144e2f8036c02cd7b0bc29e",
+            "path": "dist/src/tests/install.test.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "552cefbeb87879202fb0faa3ee34a511",
+            "path": "dist/src/tests/common.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "6fd0616f7f44c7b5bc34760d5b03db5a",
+            "path": "src/tests/mock-requests.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "304ec549af955ffd179adb2473f6b72a",
+            "path": "src/tests/install.test.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "500c3278e032c4858e20a1ecdaf0b3c4",
+            "path": "src/tests/common.ts"
+        }
+    ],
+    "fingerprint": "b71df3ab6e73705ee00e1c96efb3bef7",
+    "w3Version": "0.1.13.dev"
+}

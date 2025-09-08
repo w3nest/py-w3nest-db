@@ -1,0 +1,151 @@
+{
+    "date": "2025-09-02T09:06:20.678128",
+    "files": [
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "cf624538150c8da9ed26b0e90401bcbb",
+            "path": "README.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "image/svg+xml",
+            "hash": "b11a09613a0495d7f0ddd5f16050cde9",
+            "path": "assets/Python-logo-notext.svg"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "image/svg+xml",
+            "hash": "3a80870dcf06a79d28691405eb1f0455",
+            "path": "assets/pypi.svg"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "image/svg+xml",
+            "hash": "3c25552ebb0d1e4131e76ed5b515d148",
+            "path": "assets/fa-thumbtack.svg"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/css",
+            "hash": "1202640162ee054347e1f89925e37a59",
+            "path": "assets/mkdocs-light.css"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/octet-stream",
+            "hash": "1b94379e723225bfaea02431241197a6",
+            "path": "assets/mkdocs-light.css.map"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "image/svg+xml",
+            "hash": "8940ff6aab6623eed12df0883ea22ea9",
+            "path": "assets/fa-css3-alt.svg"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "image/svg+xml",
+            "hash": "2cecdb061ba9eab1aaa7050e1c266b1a",
+            "path": "assets/fa-network-wired.svg"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "6204317bf55149797f08a2f88063299a",
+            "path": "assets/indexAPIdoc.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/css",
+            "hash": "11c35c2e6fe692b193e8c0f45202e178",
+            "path": "assets/mkdocs-ts.css"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "image/svg+xml",
+            "hash": "4540fabd64041ea214ae19f1444f5e19",
+            "path": "assets/mit.svg"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "image/png",
+            "hash": "37399689c0b837b114e37ed51cb32902",
+            "path": "assets/JavaScript-logo.png"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "image/svg+xml",
+            "hash": "188dd76008c7b45e4bc15b34b0512cf9",
+            "path": "assets/mkdocs-ts.svg"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "image/svg+xml",
+            "hash": "f9b2611d7f2b5e64db0aa2489ff5999d",
+            "path": "assets/npm.svg"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "image/svg+xml",
+            "hash": "75adc7b242bf9172ec40592cb2bfe6c9",
+            "path": "assets/github.svg"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/css",
+            "hash": "d5a70cfed61b2a75f0cdffa8c31c8078",
+            "path": "assets/prismjs/prism.min.css"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/css",
+            "hash": "57ad371bc0022675a621b7106b01ebd7",
+            "path": "assets/prismjs/prism-line-numbers.min.css"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/css",
+            "hash": "c464ab2fb70e425969a5f0aa4faa970a",
+            "path": "assets/prismjs/prism-line-highlight.min.css"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "fe355dc2e567bdfe95ea89b2eaf25157",
+            "path": "package.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "bf3ce55798f9d3deeb7e3c421efe098e",
+            "path": "dist/webpack.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "2f0aa004b15580a7bcb1fafdae112d27",
+            "path": "dist/jest.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/javascript",
+            "hash": "4cbfb5faae7b0bc467d51284adb3e7f8",
+            "path": "dist/mkdocs-ts.js"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "0c54ef39f88d57dbc9275b262a588bd8",
+            "path": "dist/rx-vdom.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/octet-stream",
+            "hash": "7a222582c3ba57275e20b6791abf9682",
+            "path": "dist/mkdocs-ts.js.map"
+        }
+    ],
+    "fingerprint": "3ad8a5639ba060c473bb33da9daa90c1",
+    "w3Version": "0.1.13.dev"
+}

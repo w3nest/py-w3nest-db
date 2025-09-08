@@ -1,0 +1,463 @@
+{
+    "date": "2025-09-02T11:50:46.570546",
+    "files": [
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "3a14771e084499906446fa7a4e0ff4cb",
+            "path": "README.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "1caf943548745181c99000b87cb62d59",
+            "path": "assets/tutorials.notebook.workers.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "fcdd477e50528cc7bff93af75a1db495",
+            "path": "assets/tutorials.markdown.md"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "image/jpeg",
+            "hash": "b5cf302f1da0be432deda8e8a6023813",
+            "path": "assets/GodfreyKneller-IsaacNewton-1689.jpg"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "87c98612b6606813305a4e332ec46af8",
+            "path": "assets/index.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "00f554e3fbfc07c12c9bcd7a3f0270a3",
+            "path": "assets/tutorials.basics.custom-layout.composite-layout.md"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "image/jpeg",
+            "hash": "d448f5e5f3ac7c24aa70458d01e74485",
+            "path": "assets/RichardFeynman-PaineMansionWoods1984_copyrightTamikoThiel_bw.jpg"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "c67f29aabc53dc6cb033e67d383a2751",
+            "path": "assets/tutorials.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "478c8e96c381b27dded70269a971bf14",
+            "path": "assets/tutorials.basics.code-utils.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "image/svg+xml",
+            "hash": "188dd76008c7b45e4bc15b34b0512cf9",
+            "path": "assets/logo-TS.svg"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "2f624e7cd5d03c4e3d4a593f1abb83dd",
+            "path": "assets/tutorials.notebook.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "7f733963c8ac6144d0b807988a20ad5b",
+            "path": "assets/todo.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "7d425b2f53bafdb6e42c933cbd6d9276",
+            "path": "assets/tutorials.notebook.python.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "a67101779c83d11a5e39aa8c2db7a8b2",
+            "path": "assets/tutorials.basics.custom-layout.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "4c1460fb4dfe3304f104982eaec52fdc",
+            "path": "assets/tutorials.notebook.import.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "image/svg+xml",
+            "hash": "dcb90860ecc56857f2cfb77600e319a8",
+            "path": "assets/favicon.svg"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "image/png",
+            "hash": "1c5cff298ad4f1ff960006f5d6295886",
+            "path": "assets/Markdown-mark.png"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "cf2f334df530fc26842f24c6e987622f",
+            "path": "assets/install.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "5c6053d0b220a038421683d6164714a2",
+            "path": "assets/api.md"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "image/jpeg",
+            "hash": "505f66b72aae7ad56f8b40d1556dd92b",
+            "path": "assets/Douglas_Adams.jpg"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "97549334ee2b3f9681459065fa5f2942",
+            "path": "assets/tutorials.basics.dynamic-nav.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "b69da23adeaf37ee46d8a552beb3d518",
+            "path": "assets/tutorials.notebook.python.utils.md"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "image/png",
+            "hash": "9fc2ff8f7db537e9700c76e817adb263",
+            "path": "assets/solar-eclipse.png"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "32cbfe918f7d10b423dfeab6e58ddb59",
+            "path": "assets/tutorials.code-api.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "01da35ea5aeadf405c48ca78bb7f6409",
+            "path": "assets/tutorials.basics.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "89f0c62b8df35b574d2cde0e7eab4171",
+            "path": "assets/how-to.md"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "image/jpeg",
+            "hash": "52b4c4e2401a1c7cd9b9ecea1de11b62",
+            "path": "assets/Albert_Einstein_sticks_his_tongue_1951.jpg"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "d2a591f86c77c5254ca8fb8b72ef33ba",
+            "path": "assets/tutorials.notebook.interpreter.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "f66a2a7cebb6ff601f5fbd09355d4c4e",
+            "path": "assets/tutorials.notebook.import-utils.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "3511ccf59fb7f16ab2828a71968ffa5d",
+            "path": "assets/tutorials.basics.dynamic-nav.mutable-nav.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "image/svg+xml",
+            "hash": "12067f01d6fe2ba3c6f2e382b5bbbf41",
+            "path": "assets/logo-raw.svg"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "image/jpeg",
+            "hash": "13f8cece40f2a127c6df6bb3ef8d20dd",
+            "path": "assets/Marie_Curie_c1920.jpg"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "15c329d937f8db314469992482e899a7",
+            "path": "assets/tutorials.basics.typescript.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "29a94177765648827249e0036d2fe108",
+            "path": "assets/tutorials.notebook.python.matplotlib.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "aaa040095a51094f28295a9639593907",
+            "path": "assets/api/code-api/code-api.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "b23e34c0f71bc145d2452d79d6d2d754",
+            "path": "assets/api/code-api/code-api/MkApiBackends.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "85a9cbb633de7e9a7741d55eaa17a56c",
+            "path": "assets/api/code-api/code-api/MkApiBackends/mkapi_python.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "bee2edf102b6492bad284866b074dd2f",
+            "path": "assets/api/code-api/code-api/MkApiBackends/MkApiTypescript.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "3284bfc5f769a5bcf410b6ca6abec117",
+            "path": "assets/api/mkdocs-ts/mkdocs-ts.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "ec571ea9af4c9361d800e396af9f187f",
+            "path": "assets/api/mkdocs-ts/mkdocs-ts/DefaultLayout.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "807aa5f85b43394bf6dfe64267908047",
+            "path": "assets/api/mkdocs-ts/mkdocs-ts/MdWidgets.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "9bcd860f88e3b67a5acb705779e648fa",
+            "path": "assets/api/notebook/notebook.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "ba9c5d24d69e0bc0b5ed3a646acfa461",
+            "path": "assets/api/notebook/notebook/Views.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "836d980713aa7a9109c774ff9cafe79e",
+            "path": "assets/api/notebook/notebook/Interpreters.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "b7e93eb2f4044e3e7c6e36b272e9e443",
+            "path": "assets/api/notebook/notebook/Interpreters/pyrun_backend.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "1fc3141426b5a4abbcbac9fa89f7fb0a",
+            "path": "assets/api/notebook/notebook/Views/Layouts.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "58e5db803dae50e1b13f69203ee3987e",
+            "path": "package.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/octet-stream",
+            "hash": "73ce21f32e86803ee61c8e20534cd1cf",
+            "path": "dist/style.a9a2a8972482ae282b3d.css.map"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/octet-stream",
+            "hash": "9133a39c6f346ecd45a53a28d9b9851f",
+            "path": "dist/main.b22a78c2259ff8529de2.js.map"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/javascript",
+            "hash": "7fda9108486c61858137e0b9216f4388",
+            "path": "dist/main.b22a78c2259ff8529de2.js"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/octet-stream",
+            "hash": "f9e34ba4a7bc9ab83f7e1f76519cd451",
+            "path": "dist/422.2326e89eef7ba68e861e.js.map"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/css",
+            "hash": "4ea911c9bf77c85c75a72a4dea792fc9",
+            "path": "dist/style.a9a2a8972482ae282b3d.css"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/html",
+            "hash": "10bb80993d90434924d065f5bf548ad4",
+            "path": "dist/index.html"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/javascript",
+            "hash": "7136af4345099fb9ee9b91f9f64c189c",
+            "path": "dist/422.2326e89eef7ba68e861e.js"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "5c0c2978b065b7d569caf36bbbb7edfa",
+            "path": "dist/doc/webpack.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "2f0aa004b15580a7bcb1fafdae112d27",
+            "path": "dist/doc/jest.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "23622c8d59fbde8a800dfa81193c68f4",
+            "path": "dist/doc/rx-vdom.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "ae9ca18638330b7e79b695e8eadff819",
+            "path": "dist/doc/src/index.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "f47bd26c454db8e1196ff8c4cd8e1cb3",
+            "path": "dist/doc/src/app/config.markdown.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "46fb12c3b513ad2b1f332002fd48e3eb",
+            "path": "dist/doc/src/app/config.debug.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "2ad7ec59b16f45cd35532e3b10e71685",
+            "path": "dist/doc/src/app/logo.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "6d17a2d1245061cec2cbe8ba6162b84c",
+            "path": "dist/doc/src/app/config.notebook.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "0809e4c89de5de08697702f55e5f4e5c",
+            "path": "dist/doc/src/app/on-load.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "df37b6b5853505a61819a92ffd2048f2",
+            "path": "dist/doc/src/app/navigation.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "67e45e7be9deee23646634f9e2ac3679",
+            "path": "dist/doc/src/app/md-widgets.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "fe9c1648e240f90b47626950146a831f",
+            "path": "dist/doc/src/app/main.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "cef656b830dafe3a0287e32511b49aaa",
+            "path": "dist/doc/src/app/index.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "05f57117e266919e99cbb7794195119f",
+            "path": "dist/doc/src/app/config.context.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "c6d9c80051e718358e2e2978d119f103",
+            "path": "dist/doc/src/app/common.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "d41d8cd98f00b204e9800998ecf8427e",
+            "path": "dist/doc/src/tests/fake.test.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "035e25af0fd03c75353003305a8b6b31",
+            "path": "dist/doc/src/app/tutorials/index.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "640b8a1bcf208bb8ea9e311047db0227",
+            "path": "dist/doc/src/app/api/index.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "035e25af0fd03c75353003305a8b6b31",
+            "path": "dist/doc/src/app/install/index.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "c3e62fb36fe13bc306368529b573c1f4",
+            "path": "dist/doc/src/app/tutorials/notebook/index.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "a1213ac5c59c29240cd51527dfd82b6e",
+            "path": "dist/doc/src/app/tutorials/getting-started/css-3d-renderer.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "c3e62fb36fe13bc306368529b573c1f4",
+            "path": "dist/doc/src/app/tutorials/getting-started/index.d.ts"
+        }
+    ],
+    "fingerprint": "dd169bffd5b2b0b39d588e2289e25b4d",
+    "w3Version": "0.1.13.dev"
+}

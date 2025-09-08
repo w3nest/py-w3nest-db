@@ -1,0 +1,169 @@
+{
+    "date": "2025-09-05T13:32:35.426070",
+    "files": [
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "8211f99a7edc786cad59a973d2e6f2ff",
+            "path": "assets/tutorials.todo.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "5c68975bfe8a770a6db54ce20798ebc8",
+            "path": "assets/index.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "1f59960e77f391a246dfa8ed60eee06a",
+            "path": "assets/tutorials.md"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "image/png",
+            "hash": "b57e9bc785b58c40ae8d8c0c0d87749e",
+            "path": "assets/reactivex-icon.png"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "image/png",
+            "hash": "6daf304356cc010c1d23585c44041143",
+            "path": "assets/trex.png"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "image/png",
+            "hash": "4175ec6036edd2233c1915000fd5c551",
+            "path": "assets/style-wrong-type.png"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "image/png",
+            "hash": "cbb33fc92fb777264962c4589627f688",
+            "path": "assets/error-<b>-no-href.png"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "image/png",
+            "hash": "0577ceb997017ee63bc6c9831a9c34dc",
+            "path": "assets/favicon.png"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "image/png",
+            "hash": "cb88017368de8c580acb498bd55998b1",
+            "path": "assets/inlined-doc.png"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "fccb9fe82f4c60d3d0f52590e4bfb1c7",
+            "path": "assets/tutorials.basics.md"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "image/png",
+            "hash": "7c38fa0d04b96f9695f08090d74e04d6",
+            "path": "assets/error-wrong-type.png"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "07292845607f84aff6866161f7307def",
+            "path": "assets/how-to.install.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "32177ea6783c58e58db0c632fdd1d223",
+            "path": "assets/how-to.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "image/svg+xml",
+            "hash": "be423c8cdde48a4e9032481e5626eb36",
+            "path": "assets/reactivex.svg"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "0b4b91de9793e5d4262899280f186d84",
+            "path": "assets/how-to.typings.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "da47d9830f99928f634e8427abbc0a99",
+            "path": "assets/api/rx-vdom.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "ebe265d03310ed655d0ba498f564e2d5",
+            "path": "package.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/javascript",
+            "hash": "d2bcfd25fbea01a8df24df007f8f79b6",
+            "path": "dist/main.3039dfa7b83afbce181e.js"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "5c0c2978b065b7d569caf36bbbb7edfa",
+            "path": "dist/webpack.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/javascript",
+            "hash": "455bfb3fe61933b5e05c48de05581b27",
+            "path": "dist/442.27f8b534a74732d30c30.js"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/octet-stream",
+            "hash": "884f2da4be6a39c40e7ddae713d3c6ed",
+            "path": "dist/442.27f8b534a74732d30c30.js.map"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "2f0aa004b15580a7bcb1fafdae112d27",
+            "path": "dist/jest.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "8bc2ebefc837195058a9c789c9532418",
+            "path": "dist/rx-vdom.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/css",
+            "hash": "4ebf5b57599effc36392f78d492ecd04",
+            "path": "dist/style.649678f1cb5f08eb0ab8.css"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/octet-stream",
+            "hash": "909ede6b22fd1b0d0dec0530b5c2eb73",
+            "path": "dist/main.3039dfa7b83afbce181e.js.map"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/html",
+            "hash": "a2170a0f3707b047576adbcc15b3d331",
+            "path": "dist/index.html"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/octet-stream",
+            "hash": "638a225dbeaee38921c7ac615da90d2a",
+            "path": "dist/style.649678f1cb5f08eb0ab8.css.map"
+        }
+    ],
+    "fingerprint": "37d4130a1eb2b8491276645a8e4e4654",
+    "w3Version": "0.1.13.dev"
+}

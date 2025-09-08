@@ -1,0 +1,35 @@
+{
+    "distribution": {
+        "artifacts": [
+            "dist"
+        ],
+        "files": {
+            "ignore": [],
+            "include": [
+                "README.md"
+            ]
+        }
+    },
+    "metadata": {
+        "description": null,
+        "displayName": null,
+        "documentation": null,
+        "icon": null,
+        "license": null,
+        "readme": null
+    },
+    "name": "three",
+    "specification": {
+        "dependencies": {},
+        "exports": [],
+        "kind": "esm",
+        "main": {
+            "aliases": [],
+            "dependencies": [],
+            "entryPoint": "./dist/three.js",
+            "name": ".",
+            "stylesheets": []
+        }
+    },
+    "version": "0.152.0"
+}

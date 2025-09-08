@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="jest tests" tests="1" failures="0" errors="0" time="2.766">
-  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2024-07-03T13:10:58" time="2.388" tests="1">
-    <testcase classname=" install highlight.js" name=" install highlight.js" time="0.294">
-    </testcase>
-  </testsuite>
-</testsuites>

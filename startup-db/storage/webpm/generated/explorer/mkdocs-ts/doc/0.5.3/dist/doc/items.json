@@ -1,0 +1,1 @@
+{"size": 2566, "filesCount": 22, "files": [{"name": "webpack.config.d.ts", "size": 95, "encoding": "br"}, {"name": "jest.config.d.ts", "size": 67, "encoding": "br"}, {"name": "rx-vdom.config.d.ts", "size": 138, "encoding": "br"}], "folders": [{"name": "src", "path": "dist/doc/src", "size": 2266, "filesCount": -1}]}

@@ -1,0 +1,35 @@
+{
+    "distribution": {
+        "artifacts": [
+            "dist"
+        ],
+        "files": {
+            "ignore": [],
+            "include": [
+                "README.md"
+            ]
+        }
+    },
+    "metadata": {
+        "description": null,
+        "displayName": null,
+        "documentation": null,
+        "icon": null,
+        "license": null,
+        "readme": null
+    },
+    "name": "mathjax",
+    "specification": {
+        "dependencies": {},
+        "exports": [],
+        "kind": "esm",
+        "main": {
+            "aliases": [],
+            "dependencies": [],
+            "entryPoint": "./dist/mathjax.js",
+            "name": ".",
+            "stylesheets": []
+        }
+    },
+    "version": "3.1.4"
+}

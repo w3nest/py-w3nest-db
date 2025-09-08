@@ -1,0 +1,115 @@
+{
+    "date": "2025-09-02T11:47:38.977484",
+    "files": [
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "e9c7fd70c19e53d84b75420487a8651f",
+            "path": "README.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/css",
+            "hash": "25179c08148f23953c0749b5ff5b140c",
+            "path": "assets/notebook.css"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/css",
+            "hash": "22e0cb60c6a4088a781e0f4ecbb5f8d5",
+            "path": "assets/prism-code-editor/layout.css"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/css",
+            "hash": "df5af6e4dbbae0fbdfa5f31be7ed614d",
+            "path": "assets/prism-code-editor/themes/night-owl-light.css"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/css",
+            "hash": "6bb8662528b476528662eac0c9988108",
+            "path": "assets/prism-code-editor/themes/night-owl.css"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "298063432173dede5d79b947ab536fbf",
+            "path": "assets/api/notebook.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "06e79d0e8cb23c824942a9b308d16594",
+            "path": "assets/api/notebook/Views.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "428932218c1ea008a6a961bf7f2e7dc2",
+            "path": "assets/api/notebook/Interpreters.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "8640be9c7c8791e81f0c32ceee0d971c",
+            "path": "assets/api/notebook/Interpreters/pyrun_backend.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "0513ec17c9363c9187c05edb04299e34",
+            "path": "assets/api/notebook/Views/Layouts.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "b920a88f29a26c327bfbe5b12615aad6",
+            "path": "package.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/octet-stream",
+            "hash": "3dae75efa224b1aa087ab405f69366b4",
+            "path": "dist/Doc.js.map"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "bf3ce55798f9d3deeb7e3c421efe098e",
+            "path": "dist/webpack.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/javascript",
+            "hash": "86b4f8a5974590bed524d9c4dbc15469",
+            "path": "dist/Doc.js"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "2f0aa004b15580a7bcb1fafdae112d27",
+            "path": "dist/jest.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "0c54ef39f88d57dbc9275b262a588bd8",
+            "path": "dist/rx-vdom.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/javascript",
+            "hash": "7d6018013d8830df0307fbf4c7df5685",
+            "path": "dist/@mkdocs-ts/notebook.js"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/octet-stream",
+            "hash": "fd93a59bc774536c9479b6607d8f821e",
+            "path": "dist/@mkdocs-ts/notebook.js.map"
+        }
+    ],
+    "fingerprint": "233b0987b61734f25838388e59fe0a42",
+    "w3Version": "0.1.13.dev"
+}

@@ -1,0 +1,60 @@
+{
+    "distribution": {
+        "artifacts": [
+            "dist"
+        ],
+        "files": {
+            "ignore": [],
+            "include": [
+                "assets/*",
+                "README.md",
+                "examples/js-cdn/index.html",
+                "examples/js-cdn/main.js",
+                "examples/js-cdn/style.css"
+            ]
+        }
+    },
+    "metadata": {
+        "description": "Core layer of Visual Studio Flow ecosystem",
+        "displayName": null,
+        "documentation": null,
+        "icon": "/assets/logo.png",
+        "license": null,
+        "readme": "/README.md"
+    },
+    "name": "@vs-flow/core",
+    "specification": {
+        "dependencies": {
+            "@w3nest/ui-tk": "^0.1.7",
+            "@w3nest/webpm-client": "^0.1.9",
+            "mkdocs-ts": "^0.5.2",
+            "rx-vdom": "^0.1.7",
+            "rxjs": "^7.8.1"
+        },
+        "exports": [
+            {
+                "aliases": [],
+                "dependencies": [
+                    "@w3nest/ui-tk/Trees",
+                    "rxjs",
+                    "mkdocs-ts"
+                ],
+                "entryPoint": "./dist/Journal.js",
+                "name": "./Journal",
+                "stylesheets": []
+            }
+        ],
+        "kind": "esm",
+        "main": {
+            "aliases": [],
+            "dependencies": [
+                "@w3nest/webpm-client",
+                "rxjs"
+            ],
+            "entryPoint": "./dist/@vs-flow/core.js",
+            "name": ".",
+            "stylesheets": []
+        }
+    },
+    "version": "0.4.0"
+}

@@ -1,0 +1,295 @@
+{
+    "date": "2025-04-08T06:18:13.741658",
+    "files": [
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "97cbf4c9429f5fd2ea7601caa5ef175a",
+            "path": "README.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "651f6b89dff8456dc01d3967565a2091",
+            "path": ".prettierrc.json"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "application/octet-stream",
+            "hash": "34608a2d06befbdcce3c89991f2a4bfc",
+            "path": "LICENSE"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "6753688956f0bd209aef76187aa47eed",
+            "path": "package.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "f7e84f11993b9858727e04d67ba717ab",
+            "path": "webpack.config.ts"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "application/octet-stream",
+            "hash": "04c500e93c4990165ae6e477631f9948",
+            "path": ".npmignore"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "application/octet-stream",
+            "hash": "50ab5d5745228c83010d95f2e1e2147d",
+            "path": ".gitignore"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "text/x-python",
+            "hash": "937620e82f4e6fd58634e47f65edc87f",
+            "path": "template.py"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "application/octet-stream",
+            "hash": "994b3dabea084fb9280ed1fab5d720b4",
+            "path": "yarn.lock"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "application/octet-stream",
+            "hash": "13f21584a60ba70bf72fd541b790bc63",
+            "path": ".prettierignore"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "fed0a07390d0959cd5010044af1363f2",
+            "path": "jest.config.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "97cbf4c9429f5fd2ea7601caa5ef175a",
+            "path": "README.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "1b17afc200c1da8d8b51c2065f6526d3",
+            "path": "tsconfig.json"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "text/x-python",
+            "hash": "d52ca52dedbf2d1bbd6c2340093f8339",
+            "path": ".yw_pipeline/yw_pipeline.py"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/javascript",
+            "hash": "2aeff43fbc5b9134b785c484d90faa50",
+            "path": "dist/mathjax.js"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/octet-stream",
+            "hash": "056d3d9f49f8b49492c51a0461f4741b",
+            "path": "dist/mathjax.js.map"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "bf3ce55798f9d3deeb7e3c421efe098e",
+            "path": "dist/webpack.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/html",
+            "hash": "f62ee2ed8fa3958116be4ddc1a027927",
+            "path": "dist/bundle-analysis.html"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "2f0aa004b15580a7bcb1fafdae112d27",
+            "path": "dist/jest.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "9c2a558846f4bd1c13257211d1b64da6",
+            "path": "src/index.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/javascript",
+            "hash": "bb507c7b64e384816ff7ecfdddc6c4c0",
+            "path": "src/tex-mml-chtml.js"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "af9a9cd4810a63c2b4e8c28cc411d7fc",
+            "path": "src/auto-generated.ts"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "font/woff",
+            "hash": "7ee67b5348ee634dd16b968d281cb882",
+            "path": "fonts/MathJax_Size1-Regular.woff"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "font/woff",
+            "hash": "bc42125861bd5bfc8686deeb612dcbb3",
+            "path": "fonts/MathJax_Fraktur-Bold.woff"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "font/woff",
+            "hash": "c8f163c30c75aa2818c77d80a99ede24",
+            "path": "fonts/MathJax_Calligraphic-Regular.woff"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "font/woff",
+            "hash": "23a68923a42edaa3b7e6bc8a3917d388",
+            "path": "fonts/MathJax_Size2-Regular.woff"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "font/woff",
+            "hash": "77dd7f101fe6e19aeb5845f9592f7ee2",
+            "path": "fonts/MathJax_Vector-Bold.woff"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "font/woff",
+            "hash": "a7860eaf63c39f2603165893ce61a878",
+            "path": "fonts/MathJax_Size3-Regular.woff"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "font/woff",
+            "hash": "06568d8d53fb00816d101164854d8c6f",
+            "path": "fonts/MathJax_Vector-Regular.woff"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "font/woff",
+            "hash": "bc3af04f9a671fcabd6498042c57478f",
+            "path": "fonts/MathJax_SansSerif-Regular.woff"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "font/woff",
+            "hash": "ede66e09bbe848ef0b2f36ef048995ea",
+            "path": "fonts/MathJax_Math-Regular.woff"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "font/woff",
+            "hash": "4c74e33b0feb1fdbda49403a5e7ed604",
+            "path": "fonts/MathJax_Script-Regular.woff"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "font/woff",
+            "hash": "5589d1a8fc62be6613020ef2fa13e410",
+            "path": "fonts/MathJax_Math-Italic.woff"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "font/woff",
+            "hash": "7e83626ba8bf2d20dc41565f1e6d0afc",
+            "path": "fonts/MathJax_Main-Italic.woff"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "font/woff",
+            "hash": "07281897a98a61c3733e1670f82a9fd5",
+            "path": "fonts/MathJax_SansSerif-Bold.woff"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "font/woff",
+            "hash": "c2704fb5d3a6f94fa839d7cd46935a58",
+            "path": "fonts/MathJax_Calligraphic-Bold.woff"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "font/woff",
+            "hash": "b26f96047d1cb466c83e9b27bf353c1f",
+            "path": "fonts/MathJax_Zero.woff"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "font/woff",
+            "hash": "77dbcee3c3d9a82a0c04a4ae7992b895",
+            "path": "fonts/MathJax_Math-BoldItalic.woff"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "font/woff",
+            "hash": "c9423d5dc9d82a38ca215f74e9cdd9f2",
+            "path": "fonts/MathJax_Main-Bold.woff"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "font/woff",
+            "hash": "b80e08d5a79acbd1fafb1ca6f3515664",
+            "path": "fonts/MathJax_Fraktur-Regular.woff"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "font/woff",
+            "hash": "9995de4787f908d8237dba7007f6c3fe",
+            "path": "fonts/MathJax_Main-Regular.woff"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "font/woff",
+            "hash": "3d580bd561716bfb1f0b4fdd7063a802",
+            "path": "fonts/MathJax_SansSerif-Italic.woff"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "font/woff",
+            "hash": "07173fb77d2ee655811499d40c8388e7",
+            "path": "fonts/MathJax_AMS-Regular.woff"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "font/woff",
+            "hash": "3b232dcedebc60224f28318bceb3ad42",
+            "path": "fonts/MathJax_Size4-Regular.woff"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "font/woff",
+            "hash": "72815766b08ca24d4d29ad1f5d4ecb45",
+            "path": "fonts/MathJax_Typewriter-Regular.woff"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "application/x-python-code",
+            "hash": "64d23d1aa4370f874253b07b6d5347d2",
+            "path": ".yw_pipeline/__pycache__/yw_pipeline.cpython-312.pyc"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "78df85dbf4799085dd40bf43fd70abde",
+            "path": "dist/src/index.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "4729a0b2a1de881e44b51e7815cbbffa",
+            "path": "dist/src/auto-generated.d.ts"
+        }
+    ],
+    "fingerprint": "be11d6e73d924398a74a17988079b113",
+    "w3Version": "0.1.13.dev"
+}

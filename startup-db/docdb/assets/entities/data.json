@@ -13,21 +13,9 @@
             "owner": "/youwol-users"
         },
         {
-            "asset_id": "WTI5a1pXMXBjbkp2Y2c9PQ==",
-            "related_id": "Y29kZW1pcnJvcg==",
-            "group_id": "private_452d67e1-6252-45c6-b54d-673d3a6a02fe",
-            "name": "codemirror",
-            "description": "",
-            "kind": "package",
-            "tags": [],
-            "images": [],
-            "thumbnails": [],
-            "owner": "/youwol-users"
-        },
-        {
             "asset_id": "WW05dmRITjBjbUZ3",
             "related_id": "Ym9vdHN0cmFw",
-            "group_id": "L3lvdXdvbC11c2Vycy95b3V3b2wtZGV2cy95b3V3b2wtYWRtaW5z",
+            "group_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d",
             "name": "bootstrap",
             "description": "",
             "kind": "package",
@@ -38,14 +26,13 @@
         {
             "asset_id": "Y25ocWN3PT0=",
             "related_id": "cnhqcw==",
-            "group_id": "private_452d67e1-6252-45c6-b54d-673d3a6a02fe",
+            "group_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d",
             "name": "rxjs",
             "description": "",
             "kind": "package",
             "tags": [],
             "images": [],
-            "thumbnails": [],
-            "owner": "/youwol-users"
+            "thumbnails": []
         },
         {
             "asset_id": "WkRNPQ==",
@@ -72,16 +59,26 @@
             "owner": "/youwol-users"
         },
         {
-            "asset_id": "YUdsbmFHeHBaMmgwTG1weg==",
-            "related_id": "aGlnaGxpZ2h0Lmpz",
-            "group_id": "L3lvdXdvbC11c2Vycy95b3V3b2wtZGV2cy95b3V3b2wtYWRtaW5z",
-            "name": "highlight.js",
+            "asset_id": "YldGMGFHcGhlQT09",
+            "related_id": "bWF0aGpheA==",
+            "group_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d",
+            "name": "mathjax",
             "description": "",
             "kind": "package",
             "tags": [],
             "images": [],
-            "thumbnails": [],
-            "owner": "/youwol-users"
+            "thumbnails": []
+        },
+        {
+            "asset_id": "ZEdoeVpXVT0=",
+            "related_id": "dGhyZWU=",
+            "group_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d",
+            "name": "three",
+            "description": "",
+            "kind": "package",
+            "tags": [],
+            "images": [],
+            "thumbnails": []
         },
         {
             "asset_id": "UUhCdmNIQmxjbXB6TDJOdmNtVT0=",
@@ -98,14 +95,13 @@
         {
             "asset_id": "UUdac2IyRjBhVzVuTFhWcEwyUnZiUT09",
             "related_id": "QGZsb2F0aW5nLXVpL2RvbQ==",
-            "group_id": "L3lvdXdvbC11c2Vycy95b3V3b2wtZGV2cy95b3V3b2wtYWRtaW5z",
+            "group_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d",
             "name": "@floating-ui/dom",
             "description": "",
             "kind": "package",
             "tags": [],
             "images": [],
-            "thumbnails": [],
-            "owner": "/youwol-users"
+            "thumbnails": []
         },
         {
             "asset_id": "WlhOd2NtbHRZUT09",
@@ -164,17 +160,6 @@
             "thumbnails": []
         },
         {
-            "asset_id": "UUhjemJtVnpkQzl5ZUMxamIyUmxMVzFwY25KdmNpMWxaR2wwYjNKeg==",
-            "related_id": "QHczbmVzdC9yeC1jb2RlLW1pcnJvci1lZGl0b3Jz",
-            "group_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d",
-            "name": "@w3nest/rx-code-mirror-editors",
-            "description": "",
-            "kind": "package",
-            "tags": [],
-            "images": [],
-            "thumbnails": []
-        },
-        {
             "asset_id": "Yld0a2IyTnpMWFJ6",
             "related_id": "bWtkb2NzLXRz",
             "group_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d",
@@ -201,6 +186,105 @@
             "related_id": "QHczbmVzdC93M2xhYg==",
             "group_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d",
             "name": "@w3nest/w3lab",
+            "description": "",
+            "kind": "package",
+            "tags": [],
+            "images": [],
+            "thumbnails": []
+        },
+        {
+            "asset_id": "UUcxclpHOWpjeTEwY3k5a2IyTT0=",
+            "related_id": "QG1rZG9jcy10cy9kb2M=",
+            "group_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d",
+            "name": "@mkdocs-ts/doc",
+            "description": "",
+            "kind": "package",
+            "tags": [],
+            "images": [],
+            "thumbnails": []
+        },
+        {
+            "asset_id": "UUhkbFluQnRMV05zYVdWdWRDOWtiMk09",
+            "related_id": "QHdlYnBtLWNsaWVudC9kb2M=",
+            "group_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d",
+            "name": "@webpm-client/doc",
+            "description": "",
+            "kind": "package",
+            "tags": [],
+            "images": [],
+            "thumbnails": []
+        },
+        {
+            "asset_id": "UUhKNExYWmtiMjB2Wkc5ag==",
+            "related_id": "QHJ4LXZkb20vZG9j",
+            "group_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d",
+            "name": "@rx-vdom/doc",
+            "description": "",
+            "kind": "package",
+            "tags": [],
+            "images": [],
+            "thumbnails": []
+        },
+        {
+            "asset_id": "UUhjemJtVnpkQzlzYjJkcGJnPT0=",
+            "related_id": "QHczbmVzdC9sb2dpbg==",
+            "group_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d",
+            "name": "@w3nest/login",
+            "description": "",
+            "kind": "package",
+            "tags": [],
+            "images": [],
+            "thumbnails": []
+        },
+        {
+            "asset_id": "UUcxclpHOWpjeTEwY3k5dWIzUmxZbTl2YXc9PQ==",
+            "related_id": "QG1rZG9jcy10cy9ub3RlYm9vaw==",
+            "group_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d",
+            "name": "@mkdocs-ts/notebook",
+            "description": "",
+            "kind": "package",
+            "tags": [],
+            "images": [],
+            "thumbnails": []
+        },
+        {
+            "asset_id": "UUcxclpHOWpjeTEwY3k5amIyUmxMV0Z3YVE9PQ==",
+            "related_id": "QG1rZG9jcy10cy9jb2RlLWFwaQ==",
+            "group_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d",
+            "name": "@mkdocs-ts/code-api",
+            "description": "",
+            "kind": "package",
+            "tags": [],
+            "images": [],
+            "thumbnails": []
+        },
+        {
+            "asset_id": "UUhaekxXWnNiM2N2WTI5eVpRPT0=",
+            "related_id": "QHZzLWZsb3cvY29yZQ==",
+            "group_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d",
+            "name": "@vs-flow/core",
+            "description": "",
+            "kind": "package",
+            "tags": [],
+            "images": [],
+            "thumbnails": []
+        },
+        {
+            "asset_id": "UUhaekxXWnNiM2N2Wkc5ag==",
+            "related_id": "QHZzLWZsb3cvZG9j",
+            "group_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d",
+            "name": "@vs-flow/doc",
+            "description": "",
+            "kind": "package",
+            "tags": [],
+            "images": [],
+            "thumbnails": []
+        },
+        {
+            "asset_id": "UUhaekxXWnNiM2N2Wm14dmQyTm9ZWEowTFROaw==",
+            "related_id": "QHZzLWZsb3cvZmxvd2NoYXJ0LTNk",
+            "group_id": "private_2b9802dc-37c0-481a-b8b2-ebc3d1cff78d",
+            "name": "@vs-flow/flowchart-3d",
             "description": "",
             "kind": "package",
             "tags": [],

@@ -1,1 +1,1 @@
-{"size": 5441, "filesCount": 5, "files": [{"name": "index.ts", "size": 232, "encoding": "identity"}, {"name": "auto-generated.ts", "size": 487, "encoding": "identity"}], "folders": [{"name": "tests", "path": "src/tests", "size": 4722, "filesCount": -1}]}
+{"size": 1755, "filesCount": 4, "files": [{"name": "index.ts", "size": 137, "encoding": "br"}], "folders": [{"name": "tests", "path": "src/tests", "size": 1618, "filesCount": -1}]}

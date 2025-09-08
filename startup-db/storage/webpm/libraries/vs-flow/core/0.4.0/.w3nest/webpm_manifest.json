@@ -1,0 +1,91 @@
+{
+    "date": "2025-09-02T12:04:09.052011",
+    "files": [
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "0b72b2ceb5165e1234553925f2558fd6",
+            "path": "README.md"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "image/png",
+            "hash": "f296ab3e38400623dc549e3d828a63ca",
+            "path": "assets/logo.png"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "03439c0b1f4ac2670f74a636db315fb0",
+            "path": "assets/index-doc.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/javascript",
+            "hash": "3036573f7925e7ea267363677a235446",
+            "path": "examples/js-cdn/main.js"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/css",
+            "hash": "7eccb023e5e2e537076ebdce32f6ff1c",
+            "path": "examples/js-cdn/style.css"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/html",
+            "hash": "d523561fa1007830b54787e585ecc89d",
+            "path": "examples/js-cdn/index.html"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "797aa937ecdd1b7199d9282083fb0e4f",
+            "path": "package.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "bf3ce55798f9d3deeb7e3c421efe098e",
+            "path": "dist/webpack.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/octet-stream",
+            "hash": "3ec6d0d14ea0116b74b5bca30bd6f2b5",
+            "path": "dist/Journal.js.map"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "2f0aa004b15580a7bcb1fafdae112d27",
+            "path": "dist/jest.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "d6ac39cdd8c46ef3f9dae4b2ee47aeb0",
+            "path": "dist/rx-vdom.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/javascript",
+            "hash": "0c96fdd83dab4ced73055cf20735096c",
+            "path": "dist/Journal.js"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/octet-stream",
+            "hash": "37dd4fc8c982cd986ba698309d529983",
+            "path": "dist/@vs-flow/core.js.map"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/javascript",
+            "hash": "f448438fb89d17a92401e3a8c7ac5c54",
+            "path": "dist/@vs-flow/core.js"
+        }
+    ],
+    "fingerprint": "41b0cd110b2617e6b4b57b670fa48d94",
+    "w3Version": "0.1.13.dev"
+}

@@ -1,0 +1,133 @@
+{
+    "date": "2025-09-05T13:07:13.345809",
+    "files": [
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "3bd649a43bbc6c7ccb2d5f390b89bf0c",
+            "path": "README.md"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "image/png",
+            "hash": "d287b87d3ccec63a72a6d724c1ff2f9b",
+            "path": "assets/logo.png"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "3b152df0d582989ecbc51b8c59c407a2",
+            "path": "assets/indexAPIdoc.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "06879af9bc73b5d60cc477d76c103c09",
+            "path": "package.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "bf3ce55798f9d3deeb7e3c421efe098e",
+            "path": "dist/webpack.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "2f0aa004b15580a7bcb1fafdae112d27",
+            "path": "dist/jest.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "7cf59dde4e5209d325990673bb8dae44",
+            "path": "dist/rx-vdom.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/octet-stream",
+            "hash": "7d93afa6e0b3bc09ec369f15e9ed4d6d",
+            "path": "dist/rx-vdom.js.map"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/javascript",
+            "hash": "dff438e2db4506d8c0a6148f59a0ad63",
+            "path": "dist/rx-vdom.js"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/plain",
+            "hash": "e5509c05cb762c09a3a6b9782cfdca21",
+            "path": "dist/rx-vdom.js.LICENSE.txt"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "140c1ad81f7f48e0e212f69fe0f9235b",
+            "path": "dist/examples/todo-app-ts/webpack.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "2f0aa004b15580a7bcb1fafdae112d27",
+            "path": "dist/examples/todo-app-ts/jest.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "5d927d3a498465692477988e493293a5",
+            "path": "dist/examples/todo-app-ts/rx-vdom.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "ae9ca18638330b7e79b695e8eadff819",
+            "path": "dist/examples/todo-app-ts/src/index.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "4f64a6e2ebad1dfea34e96e96612a9bf",
+            "path": "dist/examples/todo-app-ts/src/app/views.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "e19594f04fc2ff19252fb2778a6a859e",
+            "path": "dist/examples/todo-app-ts/src/app/state.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "e2ebd7ddedcadeeadbf819c35985c768",
+            "path": "dist/examples/todo-app-ts/src/app/main.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "1971f56c63548c1fa5d377cc9abd8525",
+            "path": "dist/examples/todo-app-ts/src/app/index.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "e2ebd7ddedcadeeadbf819c35985c768",
+            "path": "dist/examples/todo-app-ts/src/tests/app-view.test.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "e2ebd7ddedcadeeadbf819c35985c768",
+            "path": "dist/examples/todo-app-ts/src/tests/app-state.test.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "320d91dde692282f5d04dcd16e1c536a",
+            "path": "dist/examples/todo-app-ts/src/tests/common.d.ts"
+        }
+    ],
+    "fingerprint": "1e0ee8adbe66367eb7bcafbf55043e8b",
+    "w3Version": "0.1.13.dev"
+}

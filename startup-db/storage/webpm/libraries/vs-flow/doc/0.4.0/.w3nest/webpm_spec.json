@@ -1,0 +1,74 @@
+{
+    "distribution": {
+        "artifacts": [
+            "dist"
+        ],
+        "files": {
+            "ignore": [],
+            "include": [
+                "assets/*",
+                "README.md"
+            ]
+        }
+    },
+    "metadata": {
+        "description": "Documentation app for the VS-Flow low code engine.",
+        "displayName": null,
+        "documentation": null,
+        "icon": "/assets/logo-TS.svg",
+        "license": null,
+        "readme": "/README.md"
+    },
+    "name": "@vs-flow/doc",
+    "specification": {
+        "dependencies": {
+            "@mkdocs-ts/code-api": "^0.2.2",
+            "@mkdocs-ts/notebook": "^0.1.4",
+            "@vs-flow/flowchart-3d": "^0.4.0",
+            "@vs-flow/tb-debug": "^0.4.0",
+            "@vs-flow/tb-pmp": "^0.4.0",
+            "@vs-flow/tb-rx-vdom": "^0.4.0",
+            "@vs-flow/tb-rxjs": "^0.4.0",
+            "@vs-flow/tb-three-js": "^0.4.0",
+            "@vs-flow/tb-tweakpane": "^0.4.0",
+            "@w3nest/ui-tk": "^0.1.1",
+            "@w3nest/webpm-client": "^0.1.5",
+            "mkdocs-ts": "^0.5.3",
+            "rx-vdom": "^0.1.4",
+            "rxjs": "^7.5.6"
+        },
+        "execution": {
+            "openWidth": [],
+            "standalone": true
+        },
+        "exports": [],
+        "kind": "webapp",
+        "main": {
+            "dependencies": [
+                "rxjs",
+                "rx-vdom",
+                "mkdocs-ts",
+                "@mkdocs-ts/notebook",
+                "@w3nest/webpm-client",
+                "@w3nest/ui-tk/Badges",
+                "@w3nest/ui-tk/Mkdocs",
+                "@vs-flow/flowchart-3d",
+                "@vs-flow/tb-rxjs/Doc",
+                "@vs-flow/tb-three-js/Doc",
+                "@vs-flow/tb-pmp/Doc",
+                "@vs-flow/tb-tweakpane/Doc",
+                "@vs-flow/tb-rx-vdom/Doc",
+                "@vs-flow/tb-debug/Doc"
+            ],
+            "entryPoint": "dist/index.html",
+            "stylesheets": []
+        },
+        "security": {
+            "coep": "require-corp",
+            "coop": "same-origin",
+            "csp": null,
+            "referrer_policy": "strict-origin-when-cross-origin"
+        }
+    },
+    "version": "0.4.0"
+}

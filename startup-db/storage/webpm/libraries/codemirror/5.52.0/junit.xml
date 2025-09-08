@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="jest tests" tests="1" failures="0" errors="0" time="3.605">
-  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2024-07-05T06:21:35" time="3.268" tests="1">
-    <testcase classname=" install codemirror" name=" install codemirror" time="0.118">
-    </testcase>
-  </testsuite>
-</testsuites>

@@ -1,0 +1,211 @@
+{
+    "date": "2025-09-06T07:09:29.389064",
+    "files": [
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "3da4c495171aaa509f4d63b6f71e58ea",
+            "path": "README.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "6fad8304a0f2fed240c135f1ddcfedcd",
+            "path": "assets/index.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "e0fdb4c5ffafa6e374eff639f6722cd5",
+            "path": "assets/tutorials.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "a06d333fbca77d915fe4bf1b3124e7da",
+            "path": "assets/tutorials.esm-advanced-backup.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "d122e762518c0a863a341f0bab525bf8",
+            "path": "assets/tutorials.events.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "image/svg+xml",
+            "hash": "60c31aeffb2628de653d5253a828b6a5",
+            "path": "assets/favicon.svg"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "ee6f7a8063ac5e16ab748fc5706b451f",
+            "path": "assets/tutorials.esm.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "0edc3396a7c33d5e0deefa5c425f5577",
+            "path": "assets/how-to.publish.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "05b34c97586d7b049ec2745c7566b17b",
+            "path": "assets/api.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "image/svg+xml",
+            "hash": "dcb76b41dbd7f0c78e6e350da10fb9a7",
+            "path": "assets/logo.svg"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "5196d7f66c07c5fbdd970e8007d1f168",
+            "path": "assets/tutorials.workers.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "c08ae7c184a1be7422b2989affaefcb0",
+            "path": "assets/how-to.install.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "12e0494eb61f5f2ea77568c7fd00f850",
+            "path": "assets/how-to.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "e1b29a18425448922fa17e56fd6349bd",
+            "path": "assets/tutorials.backends.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "image/svg+xml",
+            "hash": "fd2b7db8935b3db4762e2bcf50228eb0",
+            "path": "assets/logo-black.svg"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "f6b599b129334a8c08d00f8d92298b35",
+            "path": "assets/tutorials.pyodide.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "1ed4af04ed14f359565fccfc19d449f7",
+            "path": "assets/more.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "143e5b4890d4b80a82ac128f91fecfce",
+            "path": "assets/api/webpm-client.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "2669ed5f874bd327476bca5eb899995d",
+            "path": "assets/api/webpm-client/WorkersPoolModule.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "36b2c47c1574d3924ec88051e380a24b",
+            "path": "assets/api/webpm-client/MainModule.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "55f4f2a098dff5f63b59cde954957da6",
+            "path": "assets/api/webpm-client/ViewsModule.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "3686d1a59b63c18498e14d4941704935",
+            "path": "assets/api/webpm-client/MainModule/WorkersPoolTypes.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "3657d6edd9f426620339f84991be2963",
+            "path": "assets/api/webpm-client/MainModule/TestUtilsTypes.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "5c073c6a2896bda652b530f6fbcb669b",
+            "path": "package.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/css",
+            "hash": "9618ad73d0d1549634a284ca5718eb35",
+            "path": "dist/style.eb35782bdd42aa3e79e7.css"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/javascript",
+            "hash": "c21809107287d5e2fd33f5f40be08d85",
+            "path": "dist/main.187348de675f74ddbf58.js"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "5c0c2978b065b7d569caf36bbbb7edfa",
+            "path": "dist/webpack.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/octet-stream",
+            "hash": "0f2d77d6100654cb426f5aff7ee617fd",
+            "path": "dist/530.2ddbda7f11fc24a217d1.js.map"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/octet-stream",
+            "hash": "bbc938b4dfd7c6112cf72ddc6996a01b",
+            "path": "dist/main.187348de675f74ddbf58.js.map"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "2f0aa004b15580a7bcb1fafdae112d27",
+            "path": "dist/jest.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/octet-stream",
+            "hash": "3484fd54a3074e7e67206f907b80520b",
+            "path": "dist/style.eb35782bdd42aa3e79e7.css.map"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/javascript",
+            "hash": "5286875521703366e8d656207653be85",
+            "path": "dist/530.2ddbda7f11fc24a217d1.js"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "914d8739a8aa0c771b550a1d795b8f8d",
+            "path": "dist/rx-vdom.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/html",
+            "hash": "08006eff0e98f3c8d84e4dad1a2ce22e",
+            "path": "dist/index.html"
+        }
+    ],
+    "fingerprint": "38900788fba2e2e53a4907814aaa30c2",
+    "w3Version": "0.1.13.dev"
+}

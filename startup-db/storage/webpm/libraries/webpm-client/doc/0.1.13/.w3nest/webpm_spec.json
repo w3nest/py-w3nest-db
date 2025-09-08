@@ -1,0 +1,63 @@
+{
+    "distribution": {
+        "artifacts": [
+            "dist"
+        ],
+        "files": {
+            "ignore": [],
+            "include": [
+                "assets/*",
+                "README.md"
+            ]
+        }
+    },
+    "metadata": {
+        "description": "Doc. app for WebPM client usage",
+        "displayName": null,
+        "documentation": null,
+        "icon": "/assets/favicon.svg",
+        "license": "MIT",
+        "readme": "/README.md"
+    },
+    "name": "@webpm-client/doc",
+    "specification": {
+        "dependencies": {
+            "@mkdocs-ts/code-api": "^0.2.3",
+            "@mkdocs-ts/notebook": "^0.1.5",
+            "@w3nest/http-clients": "^0.1.7",
+            "@w3nest/ui-tk": "^0.1.5",
+            "@w3nest/webpm-client": "^0.1.13",
+            "mkdocs-ts": "^0.5.1",
+            "rx-vdom": "^0.1.6",
+            "rxjs": "^7.8.2"
+        },
+        "execution": {
+            "openWidth": [],
+            "standalone": true
+        },
+        "exports": [],
+        "kind": "webapp",
+        "main": {
+            "dependencies": [
+                "mkdocs-ts",
+                "@mkdocs-ts/code-api",
+                "@mkdocs-ts/notebook",
+                "@w3nest/webpm-client",
+                "rxjs",
+                "@w3nest/http-clients",
+                "rx-vdom",
+                "@w3nest/ui-tk/Badges",
+                "@w3nest/ui-tk/Mkdocs"
+            ],
+            "entryPoint": "dist/index.html",
+            "stylesheets": []
+        },
+        "security": {
+            "coep": "require-corp",
+            "coop": "same-origin",
+            "csp": null,
+            "referrer_policy": "strict-origin-when-cross-origin"
+        }
+    },
+    "version": "0.1.13"
+}

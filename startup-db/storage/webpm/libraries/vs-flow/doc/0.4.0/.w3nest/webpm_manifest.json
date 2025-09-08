@@ -1,0 +1,277 @@
+{
+    "date": "2025-09-02T16:02:53.091688",
+    "files": [
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "1448826188d803ee16265c8eda6133f2",
+            "path": "README.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "2171689e5e49e45d118f55f6c47025a4",
+            "path": "assets/index.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "65e699fa0ff255538ff408a52e4ff048",
+            "path": "assets/tutorials.utilities.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "d291c34af666b454e559fa32e8a68f87",
+            "path": "assets/tutorials.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "e9058137168c33f49ea7dcf525994d46",
+            "path": "assets/tutorials.quick-start.project.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "923052d1f7abca4e3b26db93b327c519",
+            "path": "assets/tutorials.macros.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "978c93c4d0a280fc9fb705af061a821b",
+            "path": "assets/module-design.quick-tour.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "956dcbfb2cc4c0224c1fef49b53881ed",
+            "path": "assets/api.toolboxes.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "f1c78792229bca4e6b97712e024d647a",
+            "path": "assets/module-design.backends.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "97456f8e0e6d691252d196a0dd95066e",
+            "path": "assets/module-design.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "45d09df7b58354837c1c53d7b5d88021",
+            "path": "assets/tutorials.quick-start.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "c7b9112302f4c449b9c4b5e9278a9414",
+            "path": "assets/tutorials.orchestration.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "94269d4bff3ce5448d27eea3b5c76bb8",
+            "path": "assets/tutorials.quick-start.flowchart.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "b932fff5acf4f6ad54ddbc138f298571",
+            "path": "assets/install.md"
+        },
+        {
+            "contentEncoding": "identity",
+            "contentType": "image/png",
+            "hash": "f296ab3e38400623dc549e3d828a63ca",
+            "path": "assets/favicon.png"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "e6e40cad3735ae13b29e0f778cc0e6d2",
+            "path": "assets/api.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "b407222a3ce2a172870c19d835bef215",
+            "path": "assets/tutorials.quick-start.basics-to-beyond.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "f81733ba3a7511983bbd724b012f3aa1",
+            "path": "assets/tutorials.quick-start.flows.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "77a30e5ba4c1c6c90e979a3856dfc418",
+            "path": "assets/tutorials.workers.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "daa448823641e63f42bfba22b0bdee3f",
+            "path": "assets/module-design.toolbox.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/markdown",
+            "hash": "d41d8cd98f00b204e9800998ecf8427e",
+            "path": "assets/tutorials.misc.md"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "eb33bd446f6b2d7baacbb43835b03bc7",
+            "path": "assets/api/core/core.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "8555264d43c2709456f4e0e48c4c94b7",
+            "path": "assets/api/core/core/Macros.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "a878866b912ed62c24d62ff2f682ad28",
+            "path": "assets/api/core/core/Configurations.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "1d715ceace5cd102865513e6a193c29f",
+            "path": "assets/api/core/core/Projects.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "9c4809d8f203edf97801555862c951aa",
+            "path": "assets/api/core/core/Workflows.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "44a5aa627344acbac9c6487a636a5cc1",
+            "path": "assets/api/core/core/Connections.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "ee30c75b0c56d733725dfadda02a48fa",
+            "path": "assets/api/core/core/Deployers.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "360214cfc39f487f5e55dc625017b400",
+            "path": "assets/api/core/core/Logging.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "83ddd74fc2de6fde380bf49e2db19ec3",
+            "path": "assets/api/core/core/Contracts.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "190595042a40eb7cda829a470cdf87d1",
+            "path": "assets/api/core/core/Modules.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/json",
+            "hash": "cbd7c1f4aa91234a43b455dfe11b9a1b",
+            "path": "package.json"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/javascript",
+            "hash": "a5e41501258686e87a91831644234733",
+            "path": "dist/621.ce6c3edc1b817aa8d98e.js"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "65ec68c97564e426436977324cae05c0",
+            "path": "dist/webpack.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/octet-stream",
+            "hash": "d4e1656ff6ba53256bd26a9852f3a510",
+            "path": "dist/jest.config.d.ts.map"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/octet-stream",
+            "hash": "5c51693bd9e924af507083e6c230c6c3",
+            "path": "dist/main.f0bb071f20c3b0ce755a.js.map"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/octet-stream",
+            "hash": "d9e9ebf701ca9c17370954630dbeed17",
+            "path": "dist/webpack.config.d.ts.map"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "30b5de651f331def89e69fece7ccdc5f",
+            "path": "dist/jest.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/octet-stream",
+            "hash": "11e6c30faab63321eb7b34a3cef8a8e4",
+            "path": "dist/rx-vdom.config.d.ts.map"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/vnd.trolltech.linguist",
+            "hash": "f14fd2a82e5dd35948c2bc7371391b86",
+            "path": "dist/rx-vdom.config.d.ts"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/css",
+            "hash": "4a0a8a8dcd3dfd3ce6a46deb2e09d45c",
+            "path": "dist/style.6fc822b269ca60dcc5f9.css"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/html",
+            "hash": "8dff7d0ccbedfddedede36c48bb9f892",
+            "path": "dist/index.html"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "text/javascript",
+            "hash": "67f1e6d67f084545c9bfeef267e34f34",
+            "path": "dist/main.f0bb071f20c3b0ce755a.js"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/octet-stream",
+            "hash": "256cd911aed73ab71e10800ff3293ba8",
+            "path": "dist/style.6fc822b269ca60dcc5f9.css.map"
+        },
+        {
+            "contentEncoding": "br",
+            "contentType": "application/octet-stream",
+            "hash": "2a29be0441af29bb6cff578c014c90a2",
+            "path": "dist/621.ce6c3edc1b817aa8d98e.js.map"
+        }
+    ],
+    "fingerprint": "79bea63c782179f6efa47bc3ce2753e8",
+    "w3Version": "0.1.13.dev"
+}

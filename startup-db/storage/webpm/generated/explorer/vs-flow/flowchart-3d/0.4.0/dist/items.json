@@ -1,0 +1,1 @@
+{"size": 188803, "filesCount": 5, "files": [{"name": "webpack.config.d.ts", "size": 78, "encoding": "br"}, {"name": "jest.config.d.ts", "size": 67, "encoding": "br"}, {"name": "rx-vdom.config.d.ts", "size": 146, "encoding": "br"}], "folders": [{"name": "@vs-flow", "path": "dist/@vs-flow", "size": 188512, "filesCount": -1}]}

@@ -1,1 +1,1 @@
-{"size": 4722, "filesCount": 3, "files": [{"name": "mock-requests.ts", "size": 184, "encoding": "identity"}, {"name": "install.test.ts", "size": 1890, "encoding": "identity"}, {"name": "common.ts", "size": 2648, "encoding": "identity"}], "folders": []}
+{"size": 1618, "filesCount": 3, "files": [{"name": "mock-requests.ts", "size": 96, "encoding": "br"}, {"name": "install.test.ts", "size": 639, "encoding": "br"}, {"name": "common.ts", "size": 883, "encoding": "br"}], "folders": []}

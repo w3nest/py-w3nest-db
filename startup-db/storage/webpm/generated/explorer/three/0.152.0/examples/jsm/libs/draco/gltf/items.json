@@ -1,0 +1,1 @@
+{"size": 289100, "filesCount": 4, "files": [{"name": "draco_wasm_wrapper.js", "size": 9994, "encoding": "br"}, {"name": "draco_decoder.wasm", "size": 48729, "encoding": "br"}, {"name": "draco_decoder.js", "size": 81392, "encoding": "br"}, {"name": "draco_encoder.js", "size": 148985, "encoding": "br"}], "folders": []}
